@@ -6,6 +6,8 @@ With 13 branches spanning UBC Vancouver, Vancouver General Hospital, and UBC Oka
 
 On the Vancouver campus, DRI activities in the realms of RDM, and tools for data visualization, statistical analysis, geospatial inquiries, and text analysis are supported by the Research Commons. On the Okanagan campus, the Centre for Scholarly Communication brings together expertise from the Library, Research Computing, and the Office of Research Services as a single portal to facilitate researcher access to training and support across the full scope of DRI activities queried in the DRI Needs Assessment survey.
 
+UBC Library funds and supports three data repositories: UBC Dataverse, FDRD, and Dryad. UBC Dataverse Collection is our preferred repository with full curational support and a basic digital preservation pipeline. Moreover, the Library has been supporting the campus with Data Management Plans (DMPs) software – DMP Assistant since 2015.  
+
 <div id = "top-wrapper"><a href="#top" class="back-to-top-link">🔝</a></div>
 
 ## Key Findings & Recommendations
@@ -13,28 +15,40 @@ On the Vancouver campus, DRI activities in the realms of RDM, and tools for data
 <div class="recommendation">
  <b>Finding 1</b>
 <br>
-Many respondents were either unaware of the RDM supports and training available from the lirbary and frequently looked outside the library for RDM supports and training.
+Many respondents were either unaware of the RDM supports and training available from the Library and frequently looked outside the Library for RDM supports and training.
   
   <br>
   <br>
 
   <b>Recommendation 1</b> 
 <br>
- Why these supports and training are not on the radar of much of the research community warrants investigation into communication strategies and partnerships with units where researchers are seeking supports.
+ The Library RDM services would benefit greatly from an unified cross-campus strategy to training and support for DRI
  </div>
 
 <div class="recommendation">
 <b>Finding 2</b>
   <br>
-  UBC Library was frequently the least accessed unit for support across DRI supports and training.
+  UBC Library is frequently not the first accessed unit for help across DRI supports and training.
   
   <br>
   <br>
 
   <b>Recommendation 2</b>
 <br>
-UBC Library provides graduate level training and faculty support across a range of DRI activities. At the same time, there is concern that the training provided by ARC is too advanced. There is particaulr opportunity to harmonize a continuity of training and support across a breadth of skill levels working more closely with ARC.
-  </div>
+UBC Library provides multiple RDM services to campus, including data repositories and training. The Library RDM services would benefit from an unified research data web portal and governance structure to connect all services and departments across the institution that serve DRI, to provide a single point of entry to DRI at UBC.
+    </div>
+    
+    
+    
+<b>Finding 3</b>
+  <br>
+  UBC Library RDM services are not clearly known to the community, but these who are aware of them, use them well.
+  
+  <br>
+  <b>Recommendation 3</b>
+<br>
+UBC Library RDM services at the current staffing level are not scalable for a campus-wide support. More subject matter expertise for data curation and preservation would be required to provide a scalable service.
+    </div>
   
 ## Highlights
 
