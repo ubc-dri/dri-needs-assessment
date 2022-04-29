@@ -13,11 +13,11 @@ title: UBC Digital Research Infrastructure Report
 
 ## Definitions
 
-**Training** Single workshops, workshop series, online modules/videos, and formal courses
+<p>**Training** Single workshops, workshop series, online modules/videos, and formal courses</p>
 
-**Support** Web resources, consultations, advising, troubleshooting, and recommendations
+<p>**Support** Web resources, consultations, advising, troubleshooting, and recommendations</p>
 
-**Digital Research Infrastructure** A suite of services that enables the collection, processing, dissemination, and disposition of research data. 
+<p>**Digital Research Infrastructure** A suite of services that enables the collection, processing, dissemination, and disposition of research data</p>
 
 ## Key Findings 
 
