@@ -20,7 +20,6 @@ title: UBC Digital Research Infrastructure Report
 **Digital Research Infrastructure** A suite of services that enables the collection, processing, dissemination, and disposition of research data
 
 ## Key Findings 
-
 <div class="recommendation">
  <b>Finding 1</b> 
     <br>
@@ -42,7 +41,6 @@ A large number of respondents sought training and support outside of UBC, but fo
 </div>
  
  ## Key Recommendations
- 
 <div class="recommendation">
  <b>Recommendation 1</b>
      <br>
