@@ -10,8 +10,6 @@ title: UBC Digital Research Infrastructure Report
 
 <p>From May 17th - June 12, 2021, UBC Advanced Research Computing (ARC) and the UBC Library from both Vancouver and Okanagan Campuses launched the DRI Needs Assessment Survey to investigate UBC researchers’ needs in 25 distinct areas relating to DRI. the survey received a total of 241 responses.  Following the survey, three focus groups were conducted with UBC researchers to gain additional insights.</p>
 
-<p>Key findings from the survey indicate a need for increased collaboration among units providing DRI training and support, and an enhanced communication strategy to engage researchers with DRI campus training and supports.</p>
-</div>
 
 ## Definitions
 
@@ -21,57 +19,41 @@ title: UBC Digital Research Infrastructure Report
 
 **Digital Research Infrastructure** A suite of services that enables the collection, processing, dissemination, and disposition of research data. 
 
-## Key Findings & Recommendations
+## Key Findings 
 
 <div class="recommendation">
  <b>Finding 1</b> 
     <br>
-  Respondents overwhelmingly reported wanting training and support but not knowing they were available.
+Respondents overwhelmingly wanted training and support but did not know they were available; 
+    <br>
+ <b>Finding 2</b> 
+    <br>
+Training and support are widely dispersed across the institution, with all 25 areas of DRI being served by several different units; 
+    <br>
+ <b>Finding 3</b> 
+    <br>
+A large number of respondents sought training and support outside of UBC, but focus group participants reported a preference for internal services.   
 
  <br>
  <br>
  
-  <b>Recommendation 1</b>
-  <br>
-  Coordinate and strategize communications across portfolios and departments to ensure that researchers are able to easily find and access services.
-</div>
+ ## Key Recommendations
 
 <div class="recommendation">
- <b>Finding 2</b>
+ <b>Recommendation 1</b>
+     <br>
+Develop a unified research data web portal and governance structure to connect all services and departments across the institution that serve DRI, to provide a single point of entry to DRI at UBC; 
+     <br>
+  <b>Recommendation 2</b>
+     <br>
+ Establish a unified communication strategy across these service providers that are cohesive and focuses on researchers; 
  <br>
- For every element of DRI investigated, training and support were sought across multiple portfolios and departments, as well as outside of UBC.
+ <b>Recommendation 3</b>
+     <br>
+ Implement a unified cross-campus training and support strategy that leverages the roles and expertise of various campus partners, and that is inclusive of and sensitive to the staffing, resources, and unique contexts of each UBC campus.
+ <br>
  
- <br>
- <br>
-
- <b>Recommendation 2</b>
- <br>
-Coordinate services across UBC portfolios and departments that offer similar services, as well as with national DRI service provicers, to maximize efforts and reduce duplication.
-</div>
-
-<div class="recommendation">
-<b>Finding 3</b>
- <br>
- Participants in focus groups noted that finding the right service is challenging.
- 
- <br>
- <br>
-  
-  <b>Recommendation 3</b>
- <br>
- Coordinate services across UBC portfolios and departments that provide DRI services to build a central portal for the easy discovery of services.
-</div>
-
-## Reports
-
-### Full Report
 
 <a href = "fullreport.html"><button class = "reportLink fullreportLink ">Read the full report</button></a>
 
-### Unit Reports
 
-While many units on campus support the 25 areas of DRI queried, centrally ARC, UBC Library, and IT provision the majority of the infrastructure to support DRI. Because of this, we include three sub reports that situate the findings of the survey in the unique context of each of these units. These are intended to compliment the full report. It should be noted that the Needs Assessment team does not have a representative from UBC IT. As such, this particulary report should not be seen as representing the views of IT, but should rather be considered as food for thought for UBC Library and ARC and to potentially initiate discussions around cross-departmental collaboration.
-
-<a href = "arc.html"><button class = "reportLink">ARC</button></a>
-<a href = "library.html"><button class = "reportLink">Library</button></a>
-<a href = "it.html"><button class = "reportLink">IT</button></a>
