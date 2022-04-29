@@ -25,11 +25,17 @@ title: UBC Digital Research Infrastructure Report
  <b>Finding 1</b> 
     <br>
 Respondents overwhelmingly wanted training and support but did not know they were available; 
-    <br>
+    
+ <br>
+ <br>
+ 
  <b>Finding 2</b> 
     <br>
 Training and support are widely dispersed across the institution, with all 25 areas of DRI being served by several different units; 
-    <br>
+   
+ <br>
+ <br>
+ 
  <b>Finding 3</b> 
     <br>
 A large number of respondents sought training and support outside of UBC, but focus group participants reported a preference for internal services.   
@@ -43,11 +49,16 @@ A large number of respondents sought training and support outside of UBC, but fo
  <b>Recommendation 1</b>
      <br>
 Develop a unified research data web portal and governance structure to connect all services and departments across the institution that serve DRI, to provide a single point of entry to DRI at UBC; 
+ 
+     <br>
      <br>
   <b>Recommendation 2</b>
      <br>
  Establish a unified communication strategy across these service providers that are cohesive and focuses on researchers; 
+ 
  <br>
+ <br>
+ 
  <b>Recommendation 3</b>
      <br>
  Implement a unified cross-campus training and support strategy that leverages the roles and expertise of various campus partners, and that is inclusive of and sensitive to the staffing, resources, and unique contexts of each UBC campus.
