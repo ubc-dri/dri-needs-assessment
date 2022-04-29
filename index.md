@@ -41,7 +41,8 @@ Training and support are widely dispersed across the institution, with all 25 ar
     <br>
 A large number of respondents sought training and support outside of UBC, but focus group participants reported a preference for internal services.   
 </div>
- <br>
+
+
  ## Key Recommendations
 <div class="recommendation">
  <b>Recommendation 1</b>
