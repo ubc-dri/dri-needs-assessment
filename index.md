@@ -33,7 +33,7 @@ Training and support are widely dispersed across the institution, with all 25 ar
  <b>Finding 3</b> 
     <br>
 A large number of respondents sought training and support outside of UBC, but focus group participants reported a preference for internal services.   
-
+</div>
  <br>
  <br>
  
@@ -51,6 +51,7 @@ Develop a unified research data web portal and governance structure to connect a
  <b>Recommendation 3</b>
      <br>
  Implement a unified cross-campus training and support strategy that leverages the roles and expertise of various campus partners, and that is inclusive of and sensitive to the staffing, resources, and unique contexts of each UBC campus.
+ </div>
  <br>
  
 
