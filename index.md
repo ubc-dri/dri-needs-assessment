@@ -42,7 +42,7 @@ A large number of respondents sought training and support outside of UBC, but fo
 </div>
  
  ## Key Recommendations
-
+ 
 <div class="recommendation">
  <b>Recommendation 1</b>
      <br>
