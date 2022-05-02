@@ -8,7 +8,7 @@ title: Full Report
 * [Background](#background)
 * [Methodology](#methodology) 
 * [Results](#results)
-* [Discussion and Next Steps](#discussion-and-next-steps)
+* [Recommendations & Next Steps](#recommendations-&-next-steps)
 * [Detailed graphs](#detailed-graphs)
 
 <div id = "top-wrapper"><a href="#top" class="back-to-top-link">🔝</a></div>
@@ -249,7 +249,7 @@ From February to March 2021, the Alliance conducted [The Canadian Digital Resear
 
 
 
-## Discussion and Next Steps
+## Recommendations & Next Steps
 
 ### Communicating Training and Support
 
