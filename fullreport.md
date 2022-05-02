@@ -73,6 +73,7 @@ After entering demographic information, participants were presented with a list 
 
 **Table 1.  25 DRI tools and services presented by group in Needs Assessment Survey**
 <br>
+<br>
 
 <img class="graph" alt="DRI Element Groupings" src="graphs/dri-groups.PNG">
 
@@ -157,6 +158,23 @@ In addition to localized training, focus group participants also indicated that 
 The survey highlights three trends of interest for RDM support services[^7].  RDM as a support service has traditionally been embedded in the activities of academic libraries[^8], and this is reflected at UBC with UBC Library‘s involvement in national RDM initiatives as well as coordinating funding and training for dedicated research data repositories. Yet, only 16% of researchers who sought support for data retention/deposit/preservation and 24% of those seeking support for data management plans went to UBC Library (Figure 9). For data retention specifically, UBC ARC and UBC IT are the primary units offering support for issues related to data privacy, security, and deposit when traditional data repositories are not an option. However, 20% of respondents seeking support in these areas went outside of UBC.  
 
 Data Management Plans are an integral component in adhering to funder mandates, and UBC--through UBC Library and UBC ARC--has invested time and resources in support of the development of the DMP Assistant to facilitate and streamline this task for researchers. Respondents turned to several different campus units for support, however, and almost one quarter (24%) sought this support outside of UBC (Figure 9). Together, this suggests several issues of concern. The first reflects the need to effectively direct researchers to the best point of contact for a particular service related to RDM. The second reflects that while the university and researcher each hold a degree of responsibility for ensuring the integrity of research data, many researchers are opting to work with non-UBC entities to address their RDM needs. Thirdly is that despite investment in solutions to address things like funder mandates that attempt to ensure that RDM is properly handled and administered, the products of these investments are not being used to their full potential by UBC’s research community.  
+
+**Figure 9**
+<br>
+<img class="graph" alt="Need for support/training" src="graphs/group_1_support_where.png">
+
+Similar trends in RDM support also emerged for RDM training.  30% or fewer of those seeking training in these fields looked to UBC Library and while UBC IT and UBC ARC were noted other locations where RDM training was sought, an equal, if not larger number of respondents indicated that they went outside of UBC (Figure 10).    
+
+**Figure 10**
+<br>
+<img class="graph" alt="Need for support/training" src="graphs/group_1_training_where.png">
+
+
+
+
+
+
+
 
 
 
