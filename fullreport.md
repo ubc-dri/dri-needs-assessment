@@ -52,7 +52,7 @@ Within the UBC context, often the two campuses, UBC Vancouver and UBC Okanagan a
 
 ### National DRI
 
-In a similar fashion to UBC’s DRI supports operating in isolation from each other, at a national level, historically DRI has been supported by three, distinct organizations--Compute Canada, Portage, and CANARIE--responsible respectively for ARC, RDM, and RS. Operating as specific and separate services, approaches to building competency and capacity in these areas have lacked overlap. In an effort to address this, the Government provided C$375 million in funding to consolidate these organizations; the subsequent launch of the Digital Research Alliance of Canada represents a momentous integration of these three components of DRI nationally[^7].   
+In a similar fashion to UBC’s DRI supports operating in isolation from each other, at a national level, historically DRI has been supported by three, distinct organizations--Compute Canada, Portage, and CANARIE--responsible respectively for ARC, RDM, and RS. Operating as specific and separate services, approaches to building competency and capacity in these areas have lacked overlap. In an effort to address this, the Government provided C$375 million in funding to consolidate these organizations; the subsequent launch of the Digital Research Alliance of Canada represents a momentous integration of these three components of DRI nationally[^6].   
 
 Parallel to this needs assessment of UBC researchers, the Alliance conducted a similar survey at the national level, which will be discussed in relevant sections within this report. 
 
@@ -312,4 +312,4 @@ Lastly, each unit should look at their current training and support offerings wi
 
 [^8]: Kristin A. Briney, “Data Management Practices in Academic Library Learning Analytics: A Critical Review,” 7 (General Issue), 2268, [https://doi.org/10.7710/2162-3309.2268](https://doi.org/10.7710/2162-3309.2268)
 
-[^9]: niversity of Central Floriday Libraries, “Research Lifecycle at University of Central FL,” *niversity of Central Floriday Libraries* n.d., [https://library.ucf.edu/wp-content/uploads/sites/5/2017/06/research-life-cycle.png](https://library.ucf.edu/wp-content/uploads/sites/5/2017/06/research-life-cycle.png)
+[^9]: University of Central Floriday Libraries, “Research Lifecycle at University of Central FL,” *niversity of Central Floriday Libraries* n.d., [https://library.ucf.edu/wp-content/uploads/sites/5/2017/06/research-life-cycle.png](https://library.ucf.edu/wp-content/uploads/sites/5/2017/06/research-life-cycle.png)
