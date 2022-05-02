@@ -53,7 +53,7 @@ Within the UBC context, often the two campuses, UBC Vancouver and UBC Okanagan a
 
 ### National DRI
 
-In a similar fashion to UBC’s DRI support units operating in isolation from each other, at a national level, historically DRI has been supported by three, distinct organizations--Compute Canada, Portage, and CANARIE--responsible respectively for ARC, RDM, and RS. Operating as specific and separate services, approaches to building competency and capacity in these areas have lacked overlap. In an effort to address this, the Government provided C$375 million in funding to consolidate these organizations; the subsequent launch of the Digital Research Alliance of Canada represents a momentous integration of these three components of DRI nationally[^5].   
+In a similar fashion to UBC’s DRI support units operating in isolation from each other, at a national level, historically DRI has been supported by three, distinct organizations—Compute Canada, Portage, and CANARIE—responsible respectively for ARC, RDM, and RS. Operating as specific and separate services, approaches to building competency and capacity in these areas have lacked overlap. In an effort to address this, the Government provided C$375 million in funding to consolidate these organizations; the subsequent launch of the Digital Research Alliance of Canada represents a momentous integration of these three components of DRI nationally[^5].   
 
 Parallel to this needs assessment of UBC researchers, the Alliance conducted a similar survey at the national level, which will be discussed in relevant sections within this report. 
 
