@@ -102,35 +102,24 @@ The survey began by asking demographic information about participants' position 
 <br>
 <img class="graph" alt="Respondent's primary work location" src="graphs/overall_location.PNG">
 
-
-
-
-
-
-
-
-### Findings
-
-For the purpose of this report, this section will feature the high-level findings from the full population of respondents. For more granular findings, see the [unit specific reports](index.html#unit-reports).   
-
 ### Awareness
 
-One of the most striking findings from the survey was the discrepancy between the relatively small number of those that sought training or support, compared to the much larger numbers of those that would have liked training or support but didn\'t know they were available (Figures 1.4 and 1.5). Of particular note is that this gap between those that sought training or support versus those that wanted it spans across nearly all of the 25 DRI elements and the respective portfolios and departments that serve these areas.   
+One of the most striking findings from the survey was the discrepancy between the relatively small number of those that sought training or support, compared to the much larger numbers of those that would have liked training or support but didn't know they were available (Figures 4 and 5). Of particular note is that this gap between those that sought training or support versus those that wanted it spans across nearly all of the 25 DRI elements and the respective portfolios and departments that serve these areas. This suggests that the issue of communication, or awareness, is systemic and not discipline specific or unique to a single aspect of DRI. 
 
-**Figure 1.4**
-
+**Figure 4**
+<br>
 <img class="graph graphSmall" alt="Need for support" src="graphs/overall_support.png">
 
 **Figure 1.5**
-
+<br>
 <img class="graph graphSmall" alt="Need for training" src="graphs/overall_training.png">
 
 ### Dispersion of Support and Training
 
-Another notable finding is that of the respondents that sought training or support, there was no single portfolio or department that unanimously served a particular area, but rather, all 25 areas of DRI were served by several different units (Figures 1.6). Furthermore, for those that did seek both support and training, many turned to sources outside of UBC for a variety of DRI areas.    
+Another notable finding is that of the respondents that sought training or support, there was no single portfolio or department that unanimously served a particular area, but rather, all 25 areas of DRI were served by several different units (Figures 6). Furthermore, for those that did seek both support and training, many turned to sources outside of UBC for a variety of DRI areas.   
 
-**Figure 1.6**
-
+**Figure 6**
+<br>
 <img class="graph" alt="Need for support/training" src="graphs/overall_where.png">
 
 ### Training Within UBC
