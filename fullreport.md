@@ -74,7 +74,6 @@ After entering demographic information, participants were presented with a list 
 
 
 
-
 ## Results
 
 ### Demographics
