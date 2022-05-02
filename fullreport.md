@@ -111,7 +111,7 @@ One of the most striking findings from the survey was the discrepancy between th
 <br>
 <img class="graph graphSmall" alt="Need for support" src="graphs/overall_support.png">
 
-**Figure 1.5**
+**Figure 5**
 <br>
 <img class="graph graphSmall" alt="Need for training" src="graphs/overall_training.png">
 
@@ -169,7 +169,17 @@ Similar trends in RDM support also emerged for RDM training.  30% or fewer of th
 <br>
 <img class="graph" alt="Need for support/training" src="graphs/group_1_training_where.png">
 
+### Research Computation and Software
 
+In today’s academic research environment, research computing, including but not limited to: data analysis, modeling, machine learning, and visualization, are fundamental aspects of research, innovation, and discovery.  The software, hardware, and human support to enable these activities across a breadth of disciplines and research tasks is a complex undertaking. While survey results highlight that these areas are growing rapidly, they lack a recognized home at UBC.  Of the researchers who sought additional training or support in “coding/programming” at UBC, only 15% of respondents went to UBC ARC for training and 7% for support (Figure 11 and 12).  These numbers were the highest percentage of a single unit sought within UBC, indicating that training and support are very dispersed across the institution and there is no clear unit serving the research community.  
+
+**Figure 11**
+<br>
+<img class="graph" alt="Need for support/training" src="graphs/group_2_training_where.png ">
+
+**Figure 12**
+<br>
+<img class="graph" alt="Need for support/training" src="graphs/group_2_support_where.png ">
 
 
 
