@@ -4,6 +4,7 @@ title: Full Report
 
 <div id = "top"><h2>Table of Contents</h2></div>
 
+* [Introduction](#introduction) 
 * [Background](#background)
 * [Methods](#methods) 
 * [Results](#results)
