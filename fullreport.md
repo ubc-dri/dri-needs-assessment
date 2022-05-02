@@ -10,7 +10,7 @@ title: Full Report
 * [Results](#results)
 * [Recommendations & Next Steps](#recommendations--next-steps)
 * [Detailed Graphs](#detailed-graphs)
-* [References](references)
+* [References](#references)
 
 <div id = "top-wrapper"><a href="#top" class="back-to-top-link">🔝</a></div>
 
