@@ -163,4 +163,4 @@ In line with a future state of centralized DRI services within UBC, part of this
 
 ## References
 
-[^1]: University of Central Florida Libraries, “Overview: Research Lifecycle,” University of Central Florida Libraries, n.d., https://library.ucf.edu/about/departments/scholarly-communication/overview-research-lifecycle/  
+[^1]: University of Central Florida Libraries, “Overview: Research Lifecycle,” University of Central Florida Libraries, n.d., [https://library.ucf.edu/about/departments/scholarly-communication/overview-research-lifecycle/](https://library.ucf.edu/about/departments/scholarly-communication/overview-research-lifecycle/)
