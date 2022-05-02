@@ -15,7 +15,7 @@ title: Full Report
 
 ## Data Availability
 
-The survey tool, focus group questions, and scripts used for processing the data will be made available in UBC\'s Dataverse. A link to these resources is pending. Additionally, a subset of the data is under review for de-identification and an update on the availability of the data collected will be made shortly; any available data will also be in UBC\'s Dataverse.
+Survey responses were collected anonymously, except where participants could enter an email address to enter a draw or participate in focus groups. Any potentially identifying data points from both the survey--including emails, geolocation, and survey dissemination channel--and focus groups were removed before analysis. All data used for analysis is available at [address]. 
 
 ## Introduction  
 
@@ -28,9 +28,13 @@ This report provides a summary of the findings and related recommendations to ad
 
 ## Background
 
-Digital Research Infrastructure (DRI) refers to a suite of services that enables the collection, processing, dissemination and disposition of research data. This includes strategies for planning, organizing, storing, sharing, computing, and ultimately archiving or destroying one\'s research data. 
+As traditionally non-computational disciplines increasingly rely on digital methodologies or approaches, and computationally-centric disciplines need to navigate large and complex computational environments, there is a growing and widespread need to support the infrastructural demands of these research projects as well as to ensure that practitioners have the skillsets required to engage in these activities. 
 
-As traditionally non-computational disciplines increasingly rely on digital methodologies or approaches, and computationally-centric disciplines need to navigate increasingly large and complex computational environments, there is a growing and wide spread need to support the infrastructural needs of these research projects as well as to ensure that practitioners have the skillsets required to engage in these activities. 
+Research intensive universities must invest in advanced research computing facilities, research data management services, data storage services and training, research software licenses and development, and highly qualified personnel to support this infrastructure if they wish to be competitive. This need is as much predicated on providing the necessary frameworks to enable research as it is to entice top tier researchers; prospective faculty increasingly inquire about this kind of investment, and more universities are offering cloud credits and support as ways to entice candidates. 
+
+Access to, and support with, growing amounts of data is central to today’s research. “In the academic world, faculty understand this better than anyone because their careers hinge on publishing research in scholarly journals. Standing between every researcher and peer-reviewed publication, however, are mountains of messy logistics that must be removed to focus on what really matters: first-rate research design and analysis”[^5].  
+
+UBC has recognized this is an area where financial and resource investment is required.  Substantive contributions have been made to advanced research compute infrastructure, including the hiring of new and re-imagining of existing positions in UBC ARC and UBC Library to support RDM, data, and digital scholarship across a range of disciplines, and supporting in kind contributions by engaging in national and regional partnerships to address many of the underlying issues that span the scope or capacity of any individual institution. While UBC ARC and UBC Library have positioned themselves to lead the provisioning of services and support related to DRI at a campus level, this work is contributed to in significant ways by several units, departments, and faculty specific resources on both campuses, each often working in relative isolation one from the other. 
 
 ### Context of National DRI
 
@@ -165,3 +169,5 @@ In line with a future state of centralized DRI services within UBC, part of this
 ## References
 
 [^1]: University of Central Florida Libraries, “Overview: Research Lifecycle,” University of Central Florida Libraries, n.d., [https://library.ucf.edu/about/departments/scholarly-communication/overview-research-lifecycle/](https://library.ucf.edu/about/departments/scholarly-communication/overview-research-lifecycle/)
+
+[^5]: Ryan Smith, “How Technology is Changing Academic Research,” Wired, July 2013, [https://www.wired.com/insights/2013/07/how-technology-is-changing-academic-research/](https://www.wired.com/insights/2013/07/how-technology-is-changing-academic-research/ )
