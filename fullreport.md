@@ -180,7 +180,7 @@ Data Management Plans are an integral component in adhering to funder mandates, 
 <br>
 <br>
 <br>
-<img class="graph" alt="Need for support/training" src="graphs/group_1_support_where.png">
+<img class="graph" alt="RDM Support Where" src="graphs/group_1_support_where.png">
 
 Similar trends in RDM support also emerged for RDM training.  30% or fewer of those seeking training in these fields looked to UBC Library and while UBC IT and UBC ARC were noted other locations where RDM training was sought, an equal, if not larger number of respondents indicated that they went outside of UBC (Figure 10).    
 
@@ -188,7 +188,7 @@ Similar trends in RDM support also emerged for RDM training.  30% or fewer of th
 <br>
 <br>
 <br>
-<img class="graph" alt="Need for support/training" src="graphs/group_1_training_where.png">
+<img class="graph" alt="RDM Training Where" src="graphs/group_1_training_where.png">
 
 ### Research Computation and Software
 
@@ -198,13 +198,13 @@ In today’s academic research environment, research computing, including but no
 <br>
 <br>
 <br>
-<img class="graph" alt="Need for support/training" src="graphs/group_2_training_where.png ">
+<img class="graph" alt="Computation Training Where" src="graphs/group_2_training_where.png ">
 
 **Figure 12**
 <br>
 <br>
 <br>
-<img class="graph" alt="Need for support/training" src="graphs/group_2_support_where.png ">
+<img class="graph" alt="Computation Support Where" src="graphs/group_2_support_where.png ">
 
 Furthermore, there is an interesting disconnect within this category whereby the training units do not necessarily reflect the same department breakdown in support.  For example, respondents went to UBC ARC and UBC Library for “machine learning” training, but they did not go to these units for support.  While research support units may view training and support for these categories as intertwined services, these findings suggest that the research community may view them as very separate services. 
 
@@ -214,13 +214,13 @@ There is also evidence that the UBC community is not finding the support and tra
 <br>
 <br>
 <br>
-<img class="graph" alt="Need for support/training" src="graphs/group_2_training.png">
+<img class="graph" alt="Computation Training" src="graphs/group_2_training.png">
 
 **Figure 14**
 <br>
 <br>
 <br>
-<img class="graph" alt="Need for support/training" src="graphs/group_2_support.png">
+<img class="graph" alt="Computation Support" src="graphs/group_2_support.png">
 
 ### Advanced Research Computing
 
@@ -230,7 +230,7 @@ As a partner in the needs assessment work, UBC ARC was able to solicit feedback 
 <br>
 <br>
 <br>
-<img class="graph" alt="Need for support/training" src="graphs/HPC_cloud_graph.png">
+<img class="graph" alt="HPC and Cloud Users" src="graphs/HPC_cloud_graph.png">
 
 As was the case in prior sections, the most common place for training and support is “Outside of UBC”.  Within HPC and cloud, this may mean on-demand-training, training through Compute Canada, or the multiple other online resources that are free (e.g., YouTube, other university sites, etc.).  When discussing this with focus group participants, the overwhelming feedback is if the training and support can be through UBC, that would be preferrable (Figure 7). 
 
