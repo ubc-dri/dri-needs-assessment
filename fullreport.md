@@ -6,7 +6,7 @@ title: Full Report
 
 * [Introduction](#introduction) 
 * [Background](#background)
-* [Methods](#methods) 
+* [Methodology](#methodology) 
 * [Results](#results)
 * [Discussion and Next Steps](#discussion-and-next-steps)
 * [Detailed graphs](#detailed-graphs)
@@ -55,37 +55,25 @@ Within the UBC context, often the two campuses, UBC Vancouver and UBC Okanagan a
 
 ### National DRI
 
+In a similar fashion to UBC’s DRI supports operating in isolation from each other, at a national level, historically DRI has been supported by three, distinct organizations--Compute Canada, Portage, and CANARIE--responsible respectively for ARC, RDM, and RS. Operating as specific and separate services, approaches to building competency and capacity in these areas have lacked overlap. In an effort to address this, the Government provided C$375 million in funding to consolidate these organizations; the subsequent launch of the Digital Research Alliance of Canada represents a momentous integration of these three components of DRI nationally[^7].   
 
+Parallel to this needs assessment of UBC researchers, the Alliance conducted a similar survey at the national level, which will be discussed in relevant sections within this report. 
 
-### Research Data Management (RDM) Requirements
+## Methodology
 
-In line with the recently released Tri-Agency Research Data Management Policy, all Tri-Agency eligible institutions are required to create a public RDM Institutional Strategy by March 1, 2023. 
-
-RDM requires knowledge of and services to support the creation, processing, dissemination, and disposition of data. This includes legal and ethical considerations, software and hardware expertise, communication strategies, and descriptive, taxonomic, and preservation knowledge. In an environment where digital scholarship and computational environments make up some aspect of almost every researcher\'s workflow, DRI is very much the physical and human infrastructure that enable the practices of managing research data. 
-
-RDM and DRI have considerable overlap; and supporting each spans multiple departments and portfolios. As such, UBC\'s RDM Institutional Strategy represents an opportunity for UBC to design a collaborative and innovative approach to the way in which researchers are trained, supported, and enabled to conduct world-leading research.   
-
-### Purpose
-
-In order to ensure that the needs of our research community are being met in an era of rapid development and change, the UBC DRI Needs Assessment sought to investigate the training and support needs of researchers in relation to DRI.  These findings, used in conjunction with the researcher feedback being solicited by the UBC RDM Steering Committee, can help identify gaps and vacancies in our institutional service offerings, and be used to inform the future desired state of DRI services at UBC. 
-
-## Methods
-
-This assessment was a joint effort between UBC Advanced Research Computing (ARC) and UBC Library. The assessment consisted of two elements - a survey and three follow-up focus groups. 
+Data collection for the needs assessment consisted of (1) a survey assessing current usage, awareness, and gaps in research data, software, and computational services, and (2) three follow-up focus groups with questions informed by survey results. 
 
 ### Survey
 
-The UBC DRI Needs Assessment survey ran from May 17th - June 12, 2021. The survey queried UBC researchers\' training and support needs in 25 distinct areas relating to data, software, and computational infrastructure (see [detailed graphs](#detailed-graphs) for these 25 areas and the [data availability](#data-availability) statement for access to the full survey). The survey was sent to faculty and department contacts for distribution, as well as through various newsletters. A total of 241 responses were received. 
+The needs assessment survey was open from May 17 - June 12, 2021, and queried UBC researchers’ training and support needs in 25 distinct areas relating to data, software, and computational infrastructure (Table 1). Open to all UBC researchers--graduate students, post-doctoral fellows, and faculty--the survey was distributed online through UBC Library and UBC ARC communication channels, university-wide newsletters, and targeted groups known to use at least a subset of these services. A total of 241 responses were received. 
 
-For the purpose of the survey, training and support were looked at as distinct services, with training being defined as \"single workshops, workshop series, online modules / videos, and formal courses\", and support being defined as \"web resources, consultations, advising, troubleshooting, and recommendations\".   After entering demographic information, participants were presented with a list of 25 areas of DRI, and were asked to select all those that were relevant to their research. Following this, each participant was asked to complete questions for each DRI element that was relevant to their research, including whether they needed or wanted training / support, if they sought training / support, and if so, where they went and how satisfied they were with the training / support received. Participants were also given the option to submit free-text comments at the end of the survey. 
+For the purpose of the survey, training and support were looked at as distinct services, with “training” defined as "single workshops, workshop series, online modules/videos, and formal courses", and “support” defined as "web resources, consultations, advising, troubleshooting, and recommendations". 
 
-### Focus Groups
+After entering demographic information, participants were presented with a list of 25 areas of DRI, and asked to select all those relevant to their research. Following this, each participant was asked to complete questions for each DRI element selected, including (1) whether they needed or wanted training/support, (2) if they sought training/support, and if so, (3) where they went and how satisfied they were with the training/support received. Participants were also given the option to submit free-text comments at the end of the survey.  For analysis, the 25 DRI elements were categorized into four groups, loosely based on their relationships with one another (Table 1). 
 
-One of the final survey questions asked whether participants would be willing to be contacted for follow-up focus groups. Of the 23 respondents who indicated they were willing to be contacted, we were able to schedule three focus groups with a total of 11 researchers.  The focus groups were semi-structured, containing scripted questions but also allowing spontaneous follow-up questions and discussion.  For each session, two members from the assessment team were present, with one person leading the discussion and the other taking notes. Sessions were conducted via Zoom, and were recorded as well as transcribed using Zoom\'s built-in software. Videos were deleted after transcripts were exported to a secure storage platform shared with team members, and all transcripts were stripped of identifiers. While transcripts weren\'t formally coded or analyzed, excerpts of relevance were extracted and examined. 
 
-### Limitations
 
-The DRI Needs Assessment Survey was designed to evaluate awareness and need for support and training in DRI. While free text fields allowed for respondents to provide additional qualitative feedback, the bulk of the survey focused on what was sought or needed and less on why or at what level or in what modality these training and supports were needed or not needed. While the focus groups allowed a deeper dive into these issues, the pool of focus group participants represents a sample biased by both size and discipline. Consequently, while this survey is able to report on the degree of awareness of DRI supports and training and the degree to which DRI training and support are used and from which units or departments, further inquiry is needed to enhance our understanding of specific training and support needs, modalities of delivery, and access points to increase awareness. 
+
 
 ## Results
 
@@ -185,6 +173,8 @@ In line with a future state of centralized DRI services within UBC, part of this
 
 ## References
 
-[^1]: University of Central Florida Libraries, “Overview: Research Lifecycle,” University of Central Florida Libraries, n.d., [https://library.ucf.edu/about/departments/scholarly-communication/overview-research-lifecycle/](https://library.ucf.edu/about/departments/scholarly-communication/overview-research-lifecycle/)
+[^1]: University of Central Florida Libraries, “Overview: Research Lifecycle,” *University of Central Florida Libraries*, n.d., [https://library.ucf.edu/about/departments/scholarly-communication/overview-research-lifecycle/](https://library.ucf.edu/about/departments/scholarly-communication/overview-research-lifecycle/)
 
-[^5]: Ryan Smith, “How Technology is Changing Academic Research,” Wired, July 2013, [https://www.wired.com/insights/2013/07/how-technology-is-changing-academic-research/](https://www.wired.com/insights/2013/07/how-technology-is-changing-academic-research/ )
+[^5]: Ryan Smith, “How Technology is Changing Academic Research,” *Wired*, July 2013, [https://www.wired.com/insights/2013/07/how-technology-is-changing-academic-research/](https://www.wired.com/insights/2013/07/how-technology-is-changing-academic-research/ )
+
+[^7]: Digital Research Alliance of Canada, “The Alliance,” *Digital Research Alliance of Canada*, n.d., https://alliancecan.ca/en/about/alliance  
