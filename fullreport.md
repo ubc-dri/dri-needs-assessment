@@ -16,6 +16,15 @@ title: Full Report
 
 The survey tool, focus group questions, and scripts used for processing the data will be made available in UBC\'s Dataverse. A link to these resources is pending. Additionally, a subset of the data is under review for de-identification and an update on the availability of the data collected will be made shortly; any available data will also be in UBC\'s Dataverse.
 
+## Introduction  
+
+Within the academic research environment there is an ever-increasing need for substantive digital research infrastructure (DRI), at both the national and institutional levels.  DRI refers to a suite of services that enables the collection, processing, dissemination and disposition of research data. In practice this is the software, code, large-scale computational facilities, and data storage facilities required in the research data lifecycle[^1].  While academic researchers have historically compiled, analyzed, and temporarily stored data, the growth in the technology and capacity to obtain large data sets, and the requirements to share data indefinitely, have radically changed the needs for services, support, and training for the research community. 
+
+The University of British Columbia (UBC) has invested significantly in DRI, with over $26 million a year in operating expenses for research excellence, which includes DRI, in order to promote and enhance these services across both Vancouver and Okanagan campuses as well as affiliated research institutes and hospitals. Two units that are fundamental in providing these services are UBC Advanced Research Computing (UBC ARC) and UBC Library. UBC ARC and UBC Library partnered in 2021 to assess current training and support services offered across several elements of DRI at UBC through a needs assessment survey and focus groups. The objective of this DRI Needs Assessment was to conduct a substantive review of current DRI training and support utilized by UBC researchers. 
+
+This report provides a summary of the findings and related recommendations to address identified gaps and encourage further utilization of the UBC DRI investment. 
+
+
 ## Background
 
 Digital Research Infrastructure (DRI) refers to a suite of services that enables the collection, processing, dissemination and disposition of research data. This includes strategies for planning, organizing, storing, sharing, computing, and ultimately archiving or destroying one\'s research data. 
@@ -151,3 +160,7 @@ In line with a future state of centralized DRI services within UBC, part of this
 **Figure 1.10**
 
 <img class="graph" alt="Need for training by topic" src="graphs/detailed_training.png">
+
+## References
+
+[^1]: University of Central Florida Libraries, “Overview: Research Lifecycle,” University of Central Florida Libraries, n.d., https://library.ucf.edu/about/departments/scholarly-communication/overview-research-lifecycle/  
