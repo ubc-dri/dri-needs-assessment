@@ -120,7 +120,6 @@ One of the most striking findings from the survey was the discrepancy between th
 <br>
 <br>
 <img class="graph graphSmall" alt="Need for support" src="graphs/overall_support.png">
-<br>
 
 **Figure 5**
 <br>
