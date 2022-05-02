@@ -188,6 +188,24 @@ There is also evidence that the UBC community is not finding the support and tra
 
 **Figure 13**
 
+<img class="graph" alt="Need for support/training" src="graphs/group_2_training.png">
+
+**Figure 14**
+
+<img class="graph" alt="Need for support/training" src="graphs/group_2_support.png">
+
+### Advanced Research Computing
+
+As a partner in the needs assessment work, UBC ARC was able to solicit feedback from current researchers who leverage these services with 48% of respondents reporting high performance computing (HPC) and/or commercial cloud (“cloud”) as relevant to their research.   Additionally, respondents who indicated that they leverage HPC and/or cloud also indicated that other DRI areas were of relevance (Figure 15).  This is not surprising as HPC and cloud require sizable datasets and with that, data management, machine learning, data transfer, privacy and security, and all the other elements of the DRI spectrum.  The reversal is not necessarily true whereby a researcher who needs project management, privacy, or data destruction, for instance, may not need or know of HPC or cloud. This is notable for a department, such as UBC ARC, to recognize that the department will not be the only stop in the researcher’s need for training and support. 
+
+**Figure 15**
+
+<img class="graph" alt="Need for support/training" src="graphs/HPC_cloud_graph.png">
+
+As was the case in prior sections, the most common place for training and support is “Outside of UBC”.  Within HPC and cloud, this may mean on-demand-training, training through Compute Canada, or the multiple other online resources that are free (e.g., YouTube, other university sites, etc.).  When discussing this with focus group participants, the overwhelming feedback is if the training and support can be through UBC, that would be preferrable (Figure 7). 
+
+### Other Research Support
+
 
 
 
