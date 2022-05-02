@@ -8,7 +8,7 @@ title: Full Report
 * [Background](#background)
 * [Methodology](#methodology) 
 * [Results](#results)
-* [Recommendations & Next Steps](#recommendations-&-next-steps)
+* [Recommendations & Next Steps](#recommendations--next-steps)
 * [Detailed graphs](#detailed-graphs)
 
 <div id = "top-wrapper"><a href="#top" class="back-to-top-link">🔝</a></div>
