@@ -18,35 +18,35 @@ title: UBC Digital Research Infrastructure Report
 **Support** Web resources, consultations, advising, troubleshooting, and recommendations
 
 **Digital Research Infrastructure** A suite of services that enables the collection, processing, dissemination, and disposition of research data
-
 <br>
-
 ## Key Findings 
 <div class="recommendation">
 <b>Finding 1</b> 
   <br>
 Respondents overwhelmingly wanted training and support but did not know they were available; 
   <br>
+  <br>
 <b>Finding 2</b> 
   <br>
 Training and support are widely dispersed across the institution, with all 25 areas of DRI being served by several different units; 
+  <br>
   <br>
  <b>Finding 3</b> 
   <br>
 A large number of respondents sought training and support outside of UBC, but focus group participants reported a preference for internal services.   
 </div>
-
 <br>
-
 ## Key Recommendations
 <div class="recommendation">
 <b>Recommendation 1</b>
   <br>
 Develop a unified research data web portal and governance structure to connect all services and departments across the institution that serve DRI, to provide a single point of entry to DRI at UBC; 
   <br>
+  <br>
 <b>Recommendation 2</b>
   <br>
 Establish a unified communication strategy across these service providers that are cohesive and focuses on researchers; 
+  <br>
   <br>
 <b>Recommendation 3</b>
   <br>
