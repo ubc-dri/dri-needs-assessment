@@ -206,9 +206,9 @@ As was the case in prior sections, the most common place for training and suppor
 
 ### Other Research Support
 
+Though UBC Library and UBC ARC partnered on this needs assessment, the feedback provided by those surveyed was not limited to training and support offered only by those units. The university research landscape is complex and diverse with research intensive departments providing internal support, administrative departments ensuring compliance, finance and human resources supporting the business function, and affiliated hospitals supporting their own internal processes.   
 
-
-
+This is not unique to UBC[^9]  University units and departments have struggled as to how to better support the research community knowing that academic research is competitive and research dollars can be an important investment stream.10.      
 
 
 
@@ -250,3 +250,5 @@ In line with a future state of centralized DRI services within UBC, part of this
 [^7]: John Cox, “Positioning the Academic Library within the Institution: A Literature Review,” New Review of Academic Librarianship 24, 3-4 (2018), [doi.org/10.1080/13614533.2018.1466342](doi.org/10.1080/13614533.2018.1466342)
 
 [^8]: Kristin A. Briney, “Data Management Practices in Academic Library Learning Analytics: A Critical Review,” 7 (General Issue), 2268, [https://doi.org/10.7710/2162-3309.2268](https://doi.org/10.7710/2162-3309.2268)
+
+[^9]: niversity of Central Floriday Libraries, “Research Lifecycle at University of Central FL,” *niversity of Central Floriday Libraries* n.d., [https://library.ucf.edu/wp-content/uploads/sites/5/2017/06/research-life-cycle.png](https://library.ucf.edu/wp-content/uploads/sites/5/2017/06/research-life-cycle.png)
