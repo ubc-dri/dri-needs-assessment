@@ -97,34 +97,35 @@ The survey began by asking demographic information about participants' position 
 <br>
 <br>
 <br>
-
 <img class="graph" alt="Respondent's position at UBC" src="graphs/overall_position.PNG">
-<br>
 
 **Figure 2**
 <br>
 <br>
 <br>
 <img class="graph" alt="Respondent's research discipline" src="graphs/overall_discipline.png">
-<br>
 
 **Figure 3**
 <br>
 <br>
 <br>
 <img class="graph" alt="Respondent's primary work location" src="graphs/overall_location.PNG">
-<br>
 
 ### Awareness
 
 One of the most striking findings from the survey was the discrepancy between the relatively small number of those that sought training or support, compared to the much larger numbers of those that would have liked training or support but didn't know they were available (Figures 4 and 5). Of particular note is that this gap between those that sought training or support versus those that wanted it spans across nearly all of the 25 DRI elements and the respective portfolios and departments that serve these areas. This suggests that the issue of communication, or awareness, is systemic and not discipline specific or unique to a single aspect of DRI. 
 
 **Figure 4**
-
+<br>
+<br>
+<br>
 <img class="graph graphSmall" alt="Need for support" src="graphs/overall_support.png">
+<br>
 
 **Figure 5**
-
+<br>
+<br>
+<br>
 <img class="graph graphSmall" alt="Need for training" src="graphs/overall_training.png">
 
 ### Dispersion of Support and Training
@@ -132,7 +133,9 @@ One of the most striking findings from the survey was the discrepancy between th
 Another notable finding is that of the respondents that sought training or support, there was no single portfolio or department that unanimously served a particular area, but rather, all 25 areas of DRI were served by several different units (Figures 6). Furthermore, for those that did seek both support and training, many turned to sources outside of UBC for a variety of DRI areas.   
 
 **Figure 6**
-
+<br>
+<br>
+<br>
 <img class="graph" alt="Need for support/training" src="graphs/overall_where.png">
 
 ### Training Within UBC
@@ -140,6 +143,7 @@ Another notable finding is that of the respondents that sought training or suppo
 A large number of respondents indicated that they sought training outside of UBC. However, a common theme in the focus groups was the desire for more training offered by UBC. A motivation for wanting internal training is that this encourages the growth of research communities and networks, for both faculty as well as graduate researchers. 
 
 **Figure 7.  Focus Group Quotes Regarding Internal Training at UBC.**
+<br>
 
 > \"If [training] can occur here, you build up this kind of community of practice... and that support can help, and it gives people the opportunity to talk to others about what they\'re trying to [do and what] they're having trouble with.\"
 
@@ -148,12 +152,14 @@ A large number of respondents indicated that they sought training outside of UBC
 > \"I can only see benefits in having training inside UBC.  Of course, you need to have the proper personnel to do that... but you know my first option will always look at UBC before looking outside, and I\'ll be very happy if I can find something.\"
 
 > \"Empowering graduate students [to] seek out their own network and other graduate students within their institution is always really rewarding for everyone, [and] it usually leads to a lot of productivity.\"
+<br>
 
 ### Regularly Offered/Asynchronus Training
 
 In addition to localized training, focus group participants also indicated that having training offered regularly throughout the year would be beneficial, as graduate students arrive throughout the year. In this same line of discussion, participants indicated that asynchronous or online training would be of value, as it would not only accommodate those who cannot make live training sessions, but is a beneficial supplement to live training. 
 
 **Figure 8.  Focus Group Quotes Regarding the Frequency of Training Offerings**  
+<br>
 
 > \"It\'s easy when students all come in September, because we seem to be geared up in that time on this campus to put people through [training]. But when they show up in May, they\'ve missed much [of the training offered], so I think options that are online [would be helpful].\"
 
@@ -164,6 +170,7 @@ In addition to localized training, focus group participants also indicated that 
 > \"I like the little canvas modules... I think those are useful. I always advocate for them as ways to do training. And those paired with... regular drop in [sessions] it seems to me, would be really useful.\"
 
 > \"I think that tutorial packages with examples are by far the best way [for me to learn] ... But I know that other people do have different needs and I think that having direct feedback and being able to ask a human being questions is useful for some people.\"
+<br>
  
 ### Research Data Management
 
@@ -172,13 +179,17 @@ The survey highlights three trends of interest for RDM support services[^7].  RD
 Data Management Plans are an integral component in adhering to funder mandates, and UBC--through UBC Library and UBC ARC--has invested time and resources in support of the development of the DMP Assistant to facilitate and streamline this task for researchers. Respondents turned to several different campus units for support, however, and almost one quarter (24%) sought this support outside of UBC (Figure 9). Together, this suggests several issues of concern. The first reflects the need to effectively direct researchers to the best point of contact for a particular service related to RDM. The second reflects that while the university and researcher each hold a degree of responsibility for ensuring the integrity of research data, many researchers are opting to work with non-UBC entities to address their RDM needs. Thirdly is that despite investment in solutions to address things like funder mandates that attempt to ensure that RDM is properly handled and administered, the products of these investments are not being used to their full potential by UBC’s research community.  
 
 **Figure 9**
-
+<br>
+<br>
+<br>
 <img class="graph" alt="Need for support/training" src="graphs/group_1_support_where.png">
 
 Similar trends in RDM support also emerged for RDM training.  30% or fewer of those seeking training in these fields looked to UBC Library and while UBC IT and UBC ARC were noted other locations where RDM training was sought, an equal, if not larger number of respondents indicated that they went outside of UBC (Figure 10).    
 
 **Figure 10**
-
+<br>
+<br>
+<br>
 <img class="graph" alt="Need for support/training" src="graphs/group_1_training_where.png">
 
 ### Research Computation and Software
@@ -186,11 +197,15 @@ Similar trends in RDM support also emerged for RDM training.  30% or fewer of th
 In today’s academic research environment, research computing, including but not limited to: data analysis, modeling, machine learning, and visualization, are fundamental aspects of research, innovation, and discovery.  The software, hardware, and human support to enable these activities across a breadth of disciplines and research tasks is a complex undertaking. While survey results highlight that these areas are growing rapidly, they lack a recognized home at UBC.  Of the researchers who sought additional training or support in “coding/programming” at UBC, only 15% of respondents went to UBC ARC for training and 7% for support (Figure 11 and 12).  These numbers were the highest percentage of a single unit sought within UBC, indicating that training and support are very dispersed across the institution and there is no clear unit serving the research community.  
 
 **Figure 11**
-
+<br>
+<br>
+<br>
 <img class="graph" alt="Need for support/training" src="graphs/group_2_training_where.png ">
 
 **Figure 12**
-
+<br>
+<br>
+<br>
 <img class="graph" alt="Need for support/training" src="graphs/group_2_support_where.png ">
 
 Furthermore, there is an interesting disconnect within this category whereby the training units do not necessarily reflect the same department breakdown in support.  For example, respondents went to UBC ARC and UBC Library for “machine learning” training, but they did not go to these units for support.  While research support units may view training and support for these categories as intertwined services, these findings suggest that the research community may view them as very separate services. 
@@ -198,11 +213,15 @@ Furthermore, there is an interesting disconnect within this category whereby the
 There is also evidence that the UBC community is not finding the support and training they research computation and software from the institution.  A significant number of respondents did not know training or support was available, though they would have liked to utilize it (Figure 13 and 14). 
 
 **Figure 13**
-
+<br>
+<br>
+<br>
 <img class="graph" alt="Need for support/training" src="graphs/group_2_training.png">
 
 **Figure 14**
-
+<br>
+<br>
+<br>
 <img class="graph" alt="Need for support/training" src="graphs/group_2_support.png">
 
 ### Advanced Research Computing
@@ -210,7 +229,9 @@ There is also evidence that the UBC community is not finding the support and tra
 As a partner in the needs assessment work, UBC ARC was able to solicit feedback from current researchers who leverage these services with 48% of respondents reporting high performance computing (HPC) and/or commercial cloud (“cloud”) as relevant to their research.   Additionally, respondents who indicated that they leverage HPC and/or cloud also indicated that other DRI areas were of relevance (Figure 15).  This is not surprising as HPC and cloud require sizable datasets and with that, data management, machine learning, data transfer, privacy and security, and all the other elements of the DRI spectrum.  The reversal is not necessarily true whereby a researcher who needs project management, privacy, or data destruction, for instance, may not need or know of HPC or cloud. This is notable for a department, such as UBC ARC, to recognize that the department will not be the only stop in the researcher’s need for training and support. 
 
 **Figure 15**
-
+<br>
+<br>
+<br>
 <img class="graph" alt="Need for support/training" src="graphs/HPC_cloud_graph.png">
 
 As was the case in prior sections, the most common place for training and support is “Outside of UBC”.  Within HPC and cloud, this may mean on-demand-training, training through Compute Canada, or the multiple other online resources that are free (e.g., YouTube, other university sites, etc.).  When discussing this with focus group participants, the overwhelming feedback is if the training and support can be through UBC, that would be preferrable (Figure 7). 
