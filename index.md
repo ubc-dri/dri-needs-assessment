@@ -45,7 +45,7 @@ Develop a unified research data web portal and governance structure to connect a
   <br>
 <b>Recommendation 2</b>
   <br>
-Establish a unified communication strategy across these service providers that are cohesive and focuses on researchers; 
+Establish a unified communication strategy across these service providers that is cohesive and focuses on researchers; 
   <br>
   <br>
 <b>Recommendation 3</b>
