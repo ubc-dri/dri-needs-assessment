@@ -71,8 +71,17 @@ For the purpose of the survey, training and support were looked at as distinct s
 
 After entering demographic information, participants were presented with a list of 25 areas of DRI, and asked to select all those relevant to their research. Following this, each participant was asked to complete questions for each DRI element selected, including (1) whether they needed or wanted training/support, (2) if they sought training/support, and if so, (3) where they went and how satisfied they were with the training/support received. Participants were also given the option to submit free-text comments at the end of the survey.  For analysis, the 25 DRI elements were categorized into four groups, loosely based on their relationships with one another (Table 1). 
 
+**Table 1.  25 DRI tools and services presented by group in Needs Assessment Survey**
 
+<img class="graph" alt="DRI Element Groupings" src="graphs/dri-groups.PNG">
 
+### Focus Groups
+
+As part of the survey, participants were asked if they would be willing to participate in a focus group. Of the 23 respondents who provided contact information, 11 were scheduled for and participated in three focus groups.  Focus groups were semi-structured, containing scripted questions but also allowing spontaneous follow-up and discussion. For each session, two members from the assessment team were present, with one person leading the discussion and the other taking notes. Sessions were conducted via Zoom, and were recorded as well as transcribed using Zoom's built-in software. Videos were deleted after transcripts were exported to a secure storage platform, and all transcripts were stripped of identifiers. While transcripts weren't formally coded or analyzed, excerpts of relevance were extracted. 
+
+### Limitations
+
+The DRI Needs Assessment Survey was designed to evaluate awareness of and need for support and training in DRI. While free text fields allowed for respondents to provide additional qualitative feedback, the bulk of the survey focused on what was sought or needed, and less on why or at what level or in what modality these training and supports were needed or not needed. While the focus groups allowed a deeper dive into these issues, the pool of focus group participants represents a sample biased by size, discipline, volunteer bias, and scheduling parameters. Consequently, while this survey is able to report on the degree of awareness of DRI supports and training and the degree to which DRI training and supports are used and from which units or departments, further inquiry would enhance our understanding of specific training and support needs, modalities of delivery, and access points to increase awareness. 
 
 ## Results
 
