@@ -246,31 +246,59 @@ This is not unique to UBC[^9]  University units and departments have struggled a
 
 From February to March 2021, the Alliance conducted [The Canadian Digital Research Infrastructure Needs Assessment](https://alliancecan.ca/en/initiatives/canadian-digital-research-infrastructure-needs-assessment), receiving over 1380 responses from researchers across a variety of disciplines.  As part of the assessment, there was also a call for position papers to a broad range of stakeholders, which resulted in a total of 107 papers covering topics from data management, training, data governance, and others.  The similarity in findings of both the UBC and national needs assessments are notable, including the need for greater awareness of services, a need for training and support across a range of DRI elements, as well as there being multiple locations in which researchers seek DRI services.    
 
-
-
-
 ## Recommendations & Next Steps
 
-### Communicating Training and Support
+### Overarching Recommendations
 
-The substantial number of respondents wanting training or support, but not knowing they are available, indicates that DRI services are not being effectively communicated to the research community. Of particular note is that there is not one single portfolio or area where this is prevalent, but rather, this seems to be a trend that spans the institution and all areas of DRI outlined in the survey. While there is no definitive explanation as to why current communication efforts may not be effective, these findings suggest that DRI resources across UBC may be underutilized due to a lack of researcher awareness. Acknowledging that this is an institutional issue, the subsequent next steps towards a solution should be considered at an institutional level. As almost all areas of DRI are served by multiple departments, a logical step would be to initiate a dialogue among these separate units, to begin teasing how they might collaborate and work towards a unified approach to the promotion and discoverability of DRI services at UBC.   
+It is apparent that researchers are going outside of UBC too often for core DRI training and support.  Focus group feedback, supported by data on overall satisfaction, shows this is not due to the fact that they did not want to utilize UBC based services; focus group participants said that they would advocate the use of UBC training and support over those from outside of the university.  Considering this, and the other highlighted findings from the survey, the following recommendations can be made: 
 
-### Building a Centralized Data Portal
+1. Develop a unified research data web portal and governance structure to connect all services and departments across the institution that serve DRI, to provide a single point of entry to DRI at UBC. 
+2. Establish a unified communication strategy across these service providers that is cohesive and focuses on researchers. 
+3. Implement a unified cross-campus training and support strategy that leverages the roles and expertise of various campus partners, and that is inclusive of and sensitive to the staffing, resources, and unique contexts of each UBC campus. 
 
-As a response to the upcoming Tri-Agency requirement of an RDM Institutional Strategy, UBC is currently and will continue to assess the maturity of its current capabilities to support RDM, as well as defining its ideal future state. Because the services involved in supporting RDM include all aspects of DRI, and the assessment will involve taking stock of all services, supports, and training that are currently offered at UBC, there is an opportunity to define an ideal state that would focus on the consolidation and centralization of DRI services. This type of future state would not only function in improving the visibility and discoverability of these services, but would also reduce duplicated efforts across the institution, resulting in a more efficient and effective use of resources. In practice, a centralized institutional data portal, that would be deployed and maintained by a group of members from multiple departments and portfolios, would be a fruitful and collaborative approach to maximizing our capabilities as an institution.
+### Next Steps
 
-### Leveraging National Partnerships
+**_Recommendation 1: Develop a unified research data web portal and governance structure_**
 
-In line with a future state of centralized DRI services within UBC, part of this dialogue should consider what types of training UBC is interested in and capable of providing internally, both currently and in an idea future state, and what training can be properly accommodated outside of UBC. While there are existing partnerships between UBC and Alliance Portage / Alliance Compute Canada, a potential area of inquiry would be to investigate how DRAC training could more formally be situated as a supplement to the training offered within UBC, both in terms of content and how all training opportunities are promoted and discovered among the UBC research community. Combining these efforts would broaden the availability of live (in-person and virtual) training, as well as asynchronous training and modules, providing more comprehensive and timely training opportunities for the UBC research community. This approach would also facilitate UBC in aligning with the national DRI landscape, foster stronger relationships between UBC and the DRAC community, as well as maximize resources on a national scale.   
+DRI resources are managed and coordinated by a number of units and departments across UBC and distributed among its campuses. RDM is a key element of all DRI activities and mirrors this distribution. Key findings from this survey under the header Research Data Management suggest that this distribution of supports is problematic when it comes to researchers identifying where to ask for support and training. At the same time, this distribution risks the creation of silos and subsequent misinformation among those units that provide RDM support and training. These issues have been highlighted in a number of recent data collection efforts at UBC, including the Research Data Management Strategy Project and Steering Committee town halls and preliminary work by staff from the Office of Research Ethics (ORS), UBC ARC, and UBC Library to document the breadth of RDM supports communicated through department and unit web pages. 
+
+A unified RDM web portal offers an opportunity for a single URL to direct and connect researchers with the content experts and service providers across the range of RDM services supported by UBC. It also offers a single point of entry for service providers to communicate how their supports are connected with other campus units and to ensure that information and contacts are up to date and informed by those with a primary responsibility for specific aspects of RDM support and training. 
+
+Work related to a unified portal has been under development since late 2020, and a draft proposal of the scope of activities can be access here.
+
+**_Recommendation 2: Establish a unified communication strategy_**
+
+Survey results indicate that in addition to needing to direct users to the most appropriate service expert, UBC DRI supports and training activities lack engagement with the research community as indicated by a significant number of respondents not being aware of available supports, services, and training. Communications have a lot of competition on relatively narrow bandwidths. Each unit, with narrowly focused outreach has limited reach. A collective communication strategy that leverages these respective channels and makes an effort to direct communications to where researchers are accessing their feeds, not where they will find our feeds, would help to lessen the burden of discovery on researchers and increase the impact of existing resource expenditure by UBC on DRI supports and training. 
+
+Research projects are complex. In a clinical context for example--and at a high level--this might involve drafting a proposal, developing a data management plan, getting security and privacy reviews, clearing clinical ethics and biosafety certification, interfacing with multiple human resources and finance departments, etc.  Details then include discrete protocols related to consent, privacy, security, data de-identification, data access requests, data storage, HPC for data analysis, long-term data sharing and retention etc. While ethics, HR, and finance are generally known entities with required templates to facilitate navigation, units that support DRI services--RDM, HPC, cloud, data transfer, machine learning etc--are not currently required access points at UBC. 
+
+Finding assistance in DRI training and support needs to be easy and appropriately directed. This requires effective communication, and using traditional services to advertise resources as well as administrative and departmental channels to funnel researchers at the point of need to localized services when available.  Researchers will source information that is convenient, if it is not communicated that these services are within the campus, they will not be used. A communication strategy across departments supporting DRI, while a significant undertaking, would be of immense value. A smaller-scale approach might start with departments and units coordinating cross-support communications. The location of the information is of less concern than its replication across multiple platforms and systems of dissemination--a UBC Library webpage, a UBC ARC webpage, a graduate studies forum etc. 
+
+**_Recommendation 3: Implement a unified cross-campus training and support strategy_**
+
+Directing researchers to the sources of support and training for DRI is the first step. Support and training must address the needs of researchers where they are to be of value. Support and training should also reflect the expertise of the various units involved in supporting DRI related activities. 
+
+Currently DRI related training opportunities are developed independently by a number of different departments and units. This creates redundancies, confusion about where to go to seek training, and limits scaffolding of learning content and effective hand-off between campus units for further training and support. There is limited reason for multiple groups at UBC to offer the same course, yet that is often found across these different units.  If there are two or more campus units providing “Introduction to Unix Shell” there should be a purpose for this. If UBC Library runs a workshop on metadata, this would benefit from being discretely connected to a UBC ARC workshop on metadata in the context of HPC. 
+
+Additionally, different disciplines have different learning needs and prior exposure to computational methods, RDM, and the hardware and software that support these. While they may be utilizing the same DRI infrastructure, their usage of systems and software may differ greatly. Consequently, a learning strategy that is scaffolded and connected between both support and disciplinary units should be coordinated with this in mind.  
+
+It is also worth noting when thinking about the benefits of a unified strategy where the strengths of various units lie; UBC Library has a strong history of developing content for information literacies, in a computational environment, UBC ARC provides the computational infrastructure in which these literacies are used to conduct research, and specific departments provide the subject expertise to translate literacies and infrastructure into meaningful research. A scaffolded, targeted and unified training and support strategy would build on this. 
+
+Lastly, each unit should look at their current training and support offerings with a critical eye.  What the data reflects is that those who utilized the training and support from UBC units were for the most part satisfied or very satisfied.  However, what is not clear is whether those searching for these supports did not find the match on the newsletters, webpages, etc. If the researcher is wanting training in HPC and bioinformatics, even for introductory information, they may prefer a course that is aimed at that audience over a generic introductory course11.  This type of evaluation needs to be done no matter the collaboration or communication that could happen.  It is important that the training is refreshed and based on current needs, not what has already been taught.      
+
 
 ## Detailed graphs
 
-**Figure 1.9**
-
+**Figure 16**
+<br>
+<br>
+<br>
 <img class="graph" alt="Need for support by topic" src="graphs/detailed_support.png">
 
-**Figure 1.10**
-
+**Figure 17**
+<br>
+<br>
+<br>
 <img class="graph" alt="Need for training by topic" src="graphs/detailed_training.png">
 
 ## References
