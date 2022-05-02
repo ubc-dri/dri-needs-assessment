@@ -251,7 +251,9 @@ It is apparent that researchers are going outside of UBC too often for core DRI 
 
 **Recommendation 1:** Develop a unified research data web portal and governance structure to connect all services and departments across the institution that serve DRI, to provide a single point of entry to DRI at UBC. 
 <br>
+<br>
 **Recommendation 2:** Establish a unified communication strategy across these service providers that is cohesive and focuses on researchers. 
+<br>
 <br>
 **Recommendation 3:** Implement a unified cross-campus training and support strategy that leverages the roles and expertise of various campus partners, and that is inclusive of and sensitive to the staffing, resources, and unique contexts of each UBC campus. 
 
