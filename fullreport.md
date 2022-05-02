@@ -142,7 +142,6 @@ Another notable finding is that of the respondents that sought training or suppo
 A large number of respondents indicated that they sought training outside of UBC. However, a common theme in the focus groups was the desire for more training offered by UBC. A motivation for wanting internal training is that this encourages the growth of research communities and networks, for both faculty as well as graduate researchers. 
 
 **Figure 7.  Focus Group Quotes Regarding Internal Training at UBC.**
-<br>
 
 > \"If [training] can occur here, you build up this kind of community of practice... and that support can help, and it gives people the opportunity to talk to others about what they\'re trying to [do and what] they're having trouble with.\"
 
@@ -158,7 +157,6 @@ A large number of respondents indicated that they sought training outside of UBC
 In addition to localized training, focus group participants also indicated that having training offered regularly throughout the year would be beneficial, as graduate students arrive throughout the year. In this same line of discussion, participants indicated that asynchronous or online training would be of value, as it would not only accommodate those who cannot make live training sessions, but is a beneficial supplement to live training. 
 
 **Figure 8.  Focus Group Quotes Regarding the Frequency of Training Offerings**  
-<br>
 
 > \"It\'s easy when students all come in September, because we seem to be geared up in that time on this campus to put people through [training]. But when they show up in May, they\'ve missed much [of the training offered], so I think options that are online [would be helpful].\"
 
