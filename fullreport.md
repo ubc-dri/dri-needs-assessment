@@ -88,19 +88,26 @@ The DRI Needs Assessment Survey was designed to evaluate awareness of and need f
 
 ### Demographics
 
-The survey began by asking demographic information about participants\' position at UBC, their discipline, as well as their primary work location at UBC. While Professors made up the largest group of respondents, there was strong representation across all groups except Instructors and Postdoctoral Fellows (Figure 1.1). In terms of research discipline, Medicine and Health Sciences, as well as the Social Sciences and Humanities made up a disproportionate number of respondents (Figure 1.2). The primary work location of respondents was largely the Vancouver campus, although there was significant representation from both the Okanagan campus as well as affiliated hospitals or institutions (Figure 1.3).
+The survey began by asking demographic information about participants' position at UBC, their discipline, as well as their primary work location at UBC. While Professors made up the largest group of respondents, there was strong representation across all groups except Instructors and Postdoctoral Fellows (Figure 1). In terms of research discipline, Medicine and Health Sciences, as well as the Social Sciences and Humanities made up a disproportionate number of respondents (Figure 2). The primary work location of respondents was largely the Vancouver campus, although there was significant representation from both the Okanagan campus as well as affiliated hospitals or institutions (Figure 3). When normalized to 2020 data for total number of graduate students and faculty, and grouping affiliated institutions with the UBC Vancouver campus, UBC Vancouver had a response rate of 1.3% and UBC Okanagan a response rate of 3.5%. 
 
-**Figure 1.1** 
-
+**Figure 1**
+<br>
 <img class="graph" alt="Respondent's position at UBC" src="graphs/overall_position.PNG">
 
-**Figure 1.2**
-
+**Figure 2**
+<br>
 <img class="graph" alt="Respondent's research discipline" src="graphs/overall_discipline.png">
 
-**Figure 1.3**
-
+**Figure 3**
+<br>
 <img class="graph" alt="Respondent's primary work location" src="graphs/overall_location.PNG">
+
+
+
+
+
+
+
 
 ### Findings
 
