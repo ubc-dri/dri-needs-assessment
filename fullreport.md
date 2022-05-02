@@ -152,7 +152,11 @@ In addition to localized training, focus group participants also indicated that 
 
 > \"I think that tutorial packages with examples are by far the best way [for me to learn] ... But I know that other people do have different needs and I think that having direct feedback and being able to ask a human being questions is useful for some people.\"
  
+### Research Data Management
 
+The survey highlights three trends of interest for RDM support services[^7].  RDM as a support service has traditionally been embedded in the activities of academic libraries[^8], and this is reflected at UBC with UBC Library‘s involvement in national RDM initiatives as well as coordinating funding and training for dedicated research data repositories. Yet, only 16% of researchers who sought support for data retention/deposit/preservation and 24% of those seeking support for data management plans went to UBC Library (Figure 9). For data retention specifically, UBC ARC and UBC IT are the primary units offering support for issues related to data privacy, security, and deposit when traditional data repositories are not an option. However, 20% of respondents seeking support in these areas went outside of UBC.  
+
+Data Management Plans are an integral component in adhering to funder mandates, and UBC--through UBC Library and UBC ARC--has invested time and resources in support of the development of the DMP Assistant to facilitate and streamline this task for researchers. Respondents turned to several different campus units for support, however, and almost one quarter (24%) sought this support outside of UBC (Figure 9). Together, this suggests several issues of concern. The first reflects the need to effectively direct researchers to the best point of contact for a particular service related to RDM. The second reflects that while the university and researcher each hold a degree of responsibility for ensuring the integrity of research data, many researchers are opting to work with non-UBC entities to address their RDM needs. Thirdly is that despite investment in solutions to address things like funder mandates that attempt to ensure that RDM is properly handled and administered, the products of these investments are not being used to their full potential by UBC’s research community.  
 
 
 
@@ -188,6 +192,10 @@ In line with a future state of centralized DRI services within UBC, part of this
 
 [^4]: Ryan Smith, “How Technology is Changing Academic Research,” *Wired*, July 2013, [https://www.wired.com/insights/2013/07/how-technology-is-changing-academic-research/](https://www.wired.com/insights/2013/07/how-technology-is-changing-academic-research/ )
 
-[^5] UBC Advanced Research Computing, “Enhancing Support for Advanced Research Computing,” *UBC Advanced Research Computing*, n.d., [https://arc.ubc.ca/enhancing-support-advanced-research-computing](https://arc.ubc.ca/enhancing-support-advanced-research-computing)
+[^5]: UBC Advanced Research Computing, “Enhancing Support for Advanced Research Computing,” *UBC Advanced Research Computing*, n.d., [https://arc.ubc.ca/enhancing-support-advanced-research-computing](https://arc.ubc.ca/enhancing-support-advanced-research-computing)
 
 [^6]: Digital Research Alliance of Canada, “The Alliance,” *Digital Research Alliance of Canada*, n.d., [https://alliancecan.ca/en/about/alliance](https://alliancecan.ca/en/about/alliance)
+
+[^7]: John Cox, “Positioning the Academic Library within the Institution: A Literature Review,” New Review of Academic Librarianship 24, 3-4 (2018), [doi.org/10.1080/13614533.2018.1466342](doi.org/10.1080/13614533.2018.1466342)
+
+[^8]: Kristin A. Briney, “Data Management Practices in Academic Library Learning Analytics: A Critical Review,” 7 (General Issue), 2268, [https://doi.org/10.7710/2162-3309.2268](https://doi.org/10.7710/2162-3309.2268)
