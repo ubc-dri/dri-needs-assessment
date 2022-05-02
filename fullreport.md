@@ -72,6 +72,7 @@ For the purpose of the survey, training and support were looked at as distinct s
 After entering demographic information, participants were presented with a list of 25 areas of DRI, and asked to select all those relevant to their research. Following this, each participant was asked to complete questions for each DRI element selected, including (1) whether they needed or wanted training/support, (2) if they sought training/support, and if so, (3) where they went and how satisfied they were with the training/support received. Participants were also given the option to submit free-text comments at the end of the survey.  For analysis, the 25 DRI elements were categorized into four groups, loosely based on their relationships with one another (Table 1). 
 
 **Table 1.  25 DRI tools and services presented by group in Needs Assessment Survey**
+<br>
 
 <img class="graph" alt="DRI Element Groupings" src="graphs/dri-groups.PNG">
 
