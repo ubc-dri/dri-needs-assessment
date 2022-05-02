@@ -177,4 +177,4 @@ In line with a future state of centralized DRI services within UBC, part of this
 
 [^5]: Ryan Smith, “How Technology is Changing Academic Research,” *Wired*, July 2013, [https://www.wired.com/insights/2013/07/how-technology-is-changing-academic-research/](https://www.wired.com/insights/2013/07/how-technology-is-changing-academic-research/ )
 
-[^7]: Digital Research Alliance of Canada, “The Alliance,” *Digital Research Alliance of Canada*, n.d., https://alliancecan.ca/en/about/alliance  
+[^7]: Digital Research Alliance of Canada, “The Alliance,” *Digital Research Alliance of Canada*, n.d., [https://alliancecan.ca/en/about/alliance](https://alliancecan.ca/en/about/alliance)
