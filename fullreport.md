@@ -75,6 +75,7 @@ After entering demographic information, participants were presented with a list 
 **Table 1.  25 DRI tools and services presented by group in Needs Assessment Survey**
 <br>
 <br>
+<br>
 
 <img class="graph" alt="DRI Element Groupings" src="graphs/dri-groups.PNG">
 
@@ -93,16 +94,26 @@ The DRI Needs Assessment Survey was designed to evaluate awareness of and need f
 The survey began by asking demographic information about participants' position at UBC, their discipline, as well as their primary work location at UBC. While Professors made up the largest group of respondents, there was strong representation across all groups except Instructors and Postdoctoral Fellows (Figure 1). In terms of research discipline, Medicine and Health Sciences, as well as the Social Sciences and Humanities made up a disproportionate number of respondents (Figure 2). The primary work location of respondents was largely the Vancouver campus, although there was significant representation from both the Okanagan campus as well as affiliated hospitals or institutions (Figure 3). When normalized to 2020 data for total number of graduate students and faculty, and grouping affiliated institutions with the UBC Vancouver campus, UBC Vancouver had a response rate of 1.3% and UBC Okanagan a response rate of 3.5%. 
 
 **Figure 1**
+<br>
+<br>
+<br>
 
 <img class="graph" alt="Respondent's position at UBC" src="graphs/overall_position.PNG">
+<br>
 
 **Figure 2**
-
+<br>
+<br>
+<br>
 <img class="graph" alt="Respondent's research discipline" src="graphs/overall_discipline.png">
+<br>
 
 **Figure 3**
-
+<br>
+<br>
+<br>
 <img class="graph" alt="Respondent's primary work location" src="graphs/overall_location.PNG">
+<br>
 
 ### Awareness
 
@@ -208,7 +219,11 @@ As was the case in prior sections, the most common place for training and suppor
 
 Though UBC Library and UBC ARC partnered on this needs assessment, the feedback provided by those surveyed was not limited to training and support offered only by those units. The university research landscape is complex and diverse with research intensive departments providing internal support, administrative departments ensuring compliance, finance and human resources supporting the business function, and affiliated hospitals supporting their own internal processes.   
 
-This is not unique to UBC[^9]  University units and departments have struggled as to how to better support the research community knowing that academic research is competitive and research dollars can be an important investment stream.10.      
+This is not unique to UBC[^9]  University units and departments have struggled as to how to better support the research community knowing that academic research is competitive and research dollars can be an important investment stream.
+
+### The Alliance DRI Needs Assessment
+
+From February to March 2021, the Alliance conducted [The Canadian Digital Research Infrastructure Needs Assessment](https://alliancecan.ca/en/initiatives/canadian-digital-research-infrastructure-needs-assessment), receiving over 1380 responses from researchers across a variety of disciplines.  As part of the assessment, there was also a call for position papers to a broad range of stakeholders, which resulted in a total of 107 papers covering topics from data management, training, data governance, and others.  The similarity in findings of both the UBC and national needs assessments are notable, including the need for greater awareness of services, a need for training and support across a range of DRI elements, as well as there being multiple locations in which researchers seek DRI services.    
 
 
 
