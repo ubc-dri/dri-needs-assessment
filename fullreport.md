@@ -25,7 +25,6 @@ The University of British Columbia (UBC) has invested significantly in DRI, with
 
 This report provides a summary of the findings and related recommendations to address identified gaps and encourage further utilization of the UBC DRI investment. 
 
-
 ## Background
 
 As traditionally non-computational disciplines increasingly rely on digital methodologies or approaches, and computationally-centric disciplines need to navigate large and complex computational environments, there is a growing and widespread need to support the infrastructural demands of these research projects as well as to ensure that practitioners have the skillsets required to engage in these activities. 
@@ -35,6 +34,20 @@ Research intensive universities must invest in advanced research computing facil
 Access to, and support with, growing amounts of data is central to today’s research. “In the academic world, faculty understand this better than anyone because their careers hinge on publishing research in scholarly journals. Standing between every researcher and peer-reviewed publication, however, are mountains of messy logistics that must be removed to focus on what really matters: first-rate research design and analysis”[^5].  
 
 UBC has recognized this is an area where financial and resource investment is required.  Substantive contributions have been made to advanced research compute infrastructure, including the hiring of new and re-imagining of existing positions in UBC ARC and UBC Library to support RDM, data, and digital scholarship across a range of disciplines, and supporting in kind contributions by engaging in national and regional partnerships to address many of the underlying issues that span the scope or capacity of any individual institution. While UBC ARC and UBC Library have positioned themselves to lead the provisioning of services and support related to DRI at a campus level, this work is contributed to in significant ways by several units, departments, and faculty specific resources on both campuses, each often working in relative isolation one from the other. 
+
+### UBC ARC
+
+UBC ARC was formally launched in 2015. However, the infrastructure it maintains and provides to researchers is relatively new.  In 2019, UBC ARC Sockeye, a 15,872 CPU and 200 GPU high performance computing system available to UBC researchers was unveiled as a complement to the national computing services supported by The Digital Research Alliance of Canada/Compute Canada Federation.  In 2020, UBC ARC Chinook, a 20 petabyte object storage platform was subsequently launched.  Combined, Sockeye and Chinook were enabled through capital investments totaling over C$18 million6.  Often, advanced research computing (ARC) services are provided through a traditional IT department, with staff having various levels of research experience. In contrast, UBC ARC is a multidisciplinary unit within the Office of the Vice President of Research and Innovation, comprised of staff members in traditional ARC roles such as system administrators, and former researchers, as well as less traditional members with backgrounds in areas such as health, oceanography, archeology, and library and information sciences. 
+
+UBC ARC occupies a unique position at the intersection of high performance computing (HPC), research data management (RDM), and research software (RS), and leverages this position through collaboration with departments and portfolios spanning UBC to offer support and training across the range of DRI activities queried in this needs assessment.  Over the course of the last two years, UBC ARC staff have hosted a number of introductory courses on HPC, commercial cloud, and RDM.  
+
+### UBC Library
+
+As research outputs have grown to include not just journal articles and monographs, the role of the academic library is shifting. Two fundamental aspects of the academic library--development of and access to collections and training in information literacies--need to tackle and embrace managing digital objects, intermediary research objects, and critical literacies in using, navigating, and engaging with these materials. With this growth in digital outputs and the need for infrastructure that provides durable, accessible, and discoverable access, “academic libraries [...] face enormous changes in user expectations and information-seeking behaviour.” Like many institutions, UBC Library started hiring and cultivating expertise to address these expectations. Starting with a Research Data Management position in 2014, DRI related activities are now built directly into several positions that contribute to the campus community by developing digital research infrastructure resources for faculty, staff, and students. 
+
+On the Vancouver campus, DRI activities such as RDM, tools for data visualization, statistical analysis, geospatial inquiries, and text analysis are supported by the Research Commons. On the Okanagan campus, the Centre for Scholarly Communication (CSC), launched in 2020, brings together expertise from the Library, Research Computing, and the Office of Research Services in a single portal to facilitate researcher access to training and support across the full scope of DRI activities queried in the needs assessment. 
+
+UBC Library offers regular foundational workshops--supported by investments in people and spaces to host these events--funds and provides access to several research data repositories—UBC Dataverse, FRDR, and Dryad--and invests in the development of institutional and national platforms that enable the operationalization of RDM mandates such as the DMP Assistant.   
 
 ### Context of National DRI
 
