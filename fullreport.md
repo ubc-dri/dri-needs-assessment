@@ -249,9 +249,11 @@ From February to March 2021, the Alliance conducted [The Canadian Digital Resear
 
 It is apparent that researchers are going outside of UBC too often for core DRI training and support.  Focus group feedback, supported by data on overall satisfaction, shows this is not due to the fact that they did not want to utilize UBC based services; focus group participants said that they would advocate the use of UBC training and support over those from outside of the university.  Considering this, and the other highlighted findings from the survey, the following recommendations can be made: 
 
-1. Develop a unified research data web portal and governance structure to connect all services and departments across the institution that serve DRI, to provide a single point of entry to DRI at UBC. 
-2. Establish a unified communication strategy across these service providers that is cohesive and focuses on researchers. 
-3. Implement a unified cross-campus training and support strategy that leverages the roles and expertise of various campus partners, and that is inclusive of and sensitive to the staffing, resources, and unique contexts of each UBC campus. 
+**Recommendation 1:**Develop a unified research data web portal and governance structure to connect all services and departments across the institution that serve DRI, to provide a single point of entry to DRI at UBC. 
+<br>
+**Recommendation 2:**Establish a unified communication strategy across these service providers that is cohesive and focuses on researchers. 
+<br>
+**Recommendation 3:**Implement a unified cross-campus training and support strategy that leverages the roles and expertise of various campus partners, and that is inclusive of and sensitive to the staffing, resources, and unique contexts of each UBC campus. 
 
 ### Next Steps
 
