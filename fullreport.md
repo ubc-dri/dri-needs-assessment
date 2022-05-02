@@ -49,9 +49,13 @@ On the Vancouver campus, DRI activities such as RDM, tools for data visualizatio
 
 UBC Library offers regular foundational workshops--supported by investments in people and spaces to host these events--funds and provides access to several research data repositories—UBC Dataverse, FRDR, and Dryad--and invests in the development of institutional and national platforms that enable the operationalization of RDM mandates such as the DMP Assistant.   
 
-### Context of National DRI
+### Campus
 
-The newly formed Digital Research Alliance of Canada (The Alliance) represents a momentous integration of High-Performance Computing (HPC), Research Data Management (RDM), and Research Software (RS) on a national scale.   As this organization aims to develop synergies and collaboration across these historically separate and disconnected services, there is an opportunity for the University of British Columbia (UBC) to align itself with this national vision, and to become a Canadian and sector leader in DRI services.   
+Within the UBC context, often the two campuses, UBC Vancouver and UBC Okanagan are evaluated separately.  For the purposes of this needs assessment, it is worth noting that the support services and training infrastructures vary between the two campuses. 
+
+### National DRI
+
+
 
 ### Research Data Management (RDM) Requirements
 
