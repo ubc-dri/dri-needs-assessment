@@ -265,7 +265,10 @@ DRI resources are managed and coordinated by a number of units and departments a
 
 A unified RDM web portal offers an opportunity for a single URL to direct and connect researchers with the content experts and service providers across the range of RDM services supported by UBC. It also offers a single point of entry for service providers to communicate how their supports are connected with other campus units and to ensure that information and contacts are up to date and informed by those with a primary responsibility for specific aspects of RDM support and training. 
 
-Work related to a unified portal has been under development since late 2020, and a draft proposal of the scope of activities can be access here.
+Work related to a unified portal has been under development since late 2020, and a draft proposal of the scope of activities can be accessed below:
+
+[Link to Web Portal Proposal:](https://ubcca.sharepoint.com/:w:/r/teams/ubcAVRC-gr-RDMEthics/_layouts/15/Doc.aspx?sourcedoc=%7BF24709A9-1045-433F-A996-F88BDD91C72B%7D&file=DataPortal_ProjectProposal_for-distribution.docx&action=default&mobileredirect=true)
+[Link to Web Portal Team Terms of Reference](https://ubcca.sharepoint.com/:w:/r/teams/ubcAVRC-gr-RDMEthics/_layouts/15/Doc.aspx?sourcedoc=%7B2F52D150-C970-4FB1-9CA1-79EECC878A86%7D&file=for-distribution-DataPortal_ToR.docx&action=default&mobileredirect=true)
 
 **_Recommendation 2: Establish a unified communication strategy_**
 
