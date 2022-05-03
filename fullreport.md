@@ -267,7 +267,7 @@ A unified RDM web portal offers an opportunity for a single URL to direct and co
 
 Work related to a unified portal has been under development since late 2020, and a draft proposal of the scope of activities can be accessed below:
 
-[Link to Web Portal Proposal:](https://ubcca.sharepoint.com/:w:/r/teams/ubcAVRC-gr-RDMEthics/_layouts/15/Doc.aspx?sourcedoc=%7BF24709A9-1045-433F-A996-F88BDD91C72B%7D&file=DataPortal_ProjectProposal_for-distribution.docx&action=default&mobileredirect=true)
+[Link to Web Portal Proposal](https://ubcca.sharepoint.com/:w:/r/teams/ubcAVRC-gr-RDMEthics/_layouts/15/Doc.aspx?sourcedoc=%7BF24709A9-1045-433F-A996-F88BDD91C72B%7D&file=DataPortal_ProjectProposal_for-distribution.docx&action=default&mobileredirect=true)
 
 [Link to Web Portal Team Terms of Reference](https://ubcca.sharepoint.com/:w:/r/teams/ubcAVRC-gr-RDMEthics/_layouts/15/Doc.aspx?sourcedoc=%7B2F52D150-C970-4FB1-9CA1-79EECC878A86%7D&file=for-distribution-DataPortal_ToR.docx&action=default&mobileredirect=true)
 
