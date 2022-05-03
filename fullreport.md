@@ -14,7 +14,7 @@ title: Full Report
 
 <div id = "top-wrapper"><a href="#top" class="back-to-top-link">🔝</a></div>
 
-<embed src="https://ubc-dri.github.io/dri-needs-assessment/DataPortal_ProjectProposal.pdf" type="application/pdf" />
+<a href="https://ubc-dri.github.io/dri-needs-assessment/DataPortal_ProjectProposal.pdf" target="_blank">please click here.</a> <embed src="https://my.github.io/my.pdf" width="1000px" height="800px" />
 
 ## Introduction  
 
