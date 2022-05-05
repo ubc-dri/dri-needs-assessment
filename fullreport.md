@@ -321,7 +321,7 @@ Lastly, each unit must look at their current training and support offerings with
 [^5]: Digital Research Alliance of Canada, “The Alliance,” *Digital Research Alliance of Canada*, n.d., <a href="https://alliancecan.ca/en/about/alliance" target="_blank">https://alliancecan.ca/en/about/alliance</a>
 
 [^6]: John Cox, “Positioning the Academic Library within the Institution: A Literature Review,” _New Review of Academic Librarianship_ 24, 3-4 (2018), 
-<a href="doi.org/10.1080/13614533.2018.1466342" target="_blank">doi.org/10.1080/13614533.2018.1466342</a>
+<a href="https://doi.org/10.1080/13614533.2018.1466342" target="_blank">https://doi.org/10.1080/13614533.2018.1466342</a>
 
 [^7]: Kristin A. Briney, “Data Management Practices in Academic Library Learning Analytics: A Critical Review,” _Journal of Librarianship and Scholarly Communications_ 7, no. 1 (February 2019), <a href="https://doi.org/10.7710/2162-3309.2268" target="_blank">https://doi.org/10.7710/2162-3309.2268</a>
 
