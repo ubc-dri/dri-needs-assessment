@@ -325,4 +325,3 @@ Lastly, each unit should look at their current training and support offerings wi
 
 [^9]: Phillip A. Richmond and Wyeth W. Wassermann, “Introduction to Genomic Analysis Workshop: A catalyst for engaging life-science researchers in high throughput analysis,” _F1000 Research_, (July 2019), [https://doi.org/10.12688/f1000research.19320.1](https://doi.org/10.12688/f1000research.19320.1)
 
-
