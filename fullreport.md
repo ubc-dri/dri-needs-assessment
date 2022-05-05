@@ -48,7 +48,7 @@ On the Vancouver campus, DRI activities such as RDM, tools for data visualizatio
 
 ### Campus Context 
 
-Within the UBC context, the Vancouver and Okanagan campuses are often evaluated separately as the courses, faculty, staff, and student make-up is different. Because of this, it is worth noting that the support services and training infrastructures vary between the two campuses and may have impacted responses to the assessment survey. 
+Within the UBC context, the Vancouver and Okanagan campuses are often evaluated separately as the courses, faculty, staff, and student make-up is different. Because of this, it is worth noting that the support services and training infrastructures vary between the two campuses and may have impacted responses to the Needs Assessment survey. 
 
 ### National DRI  
 
