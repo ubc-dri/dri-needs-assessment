@@ -324,7 +324,7 @@ Lastly, each unit must look at their current training and support offerings with
 
 [^7]: Kristin A. Briney, “Data Management Practices in Academic Library Learning Analytics: A Critical Review,” _Journal of Librarianship and Scholarly Communications_ 7, no. 1 (February 2019), [https://doi.org/10.7710/2162-3309.2268](https://doi.org/10.7710/2162-3309.2268)
 
-[^8]: University of Central Floriday Libraries, “Research Lifecycle at University of Central FL,” *University of Central Floriday Libraries* n.d., [https://library.ucf.edu/wp-content/uploads/sites/5/2017/06/research-life-cycle.png](https://library.ucf.edu/wp-content/uploads/sites/5/2017/06/research-life-cycle.png)
+[^8]: University of Central Floriday Libraries, “Research Lifecycle at University of Central FL,” _University of Central Floriday Libraries_ n.d., [https://library.ucf.edu/wp-content/uploads/sites/5/2017/06/research-life-cycle.png](https://library.ucf.edu/wp-content/uploads/sites/5/2017/06/research-life-cycle.png)
 
 [^9]: Phillip A. Richmond and Wyeth W. Wassermann, “Introduction to Genomic Analysis Workshop: A catalyst for engaging life-science researchers in high throughput analysis,” _F1000 Research_, (July 2019), [https://doi.org/10.12688/f1000research.19320.1](https://doi.org/10.12688/f1000research.19320.1)
  
