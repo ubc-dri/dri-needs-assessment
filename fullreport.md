@@ -310,21 +310,22 @@ Lastly, each unit must look at their current training and support offerings with
 
 ## References
 
-[^1]: University of Central Florida Libraries, “Overview: Research Lifecycle,” *University of Central Florida Libraries*, n.d., [https://library.ucf.edu/about/departments/scholarly-communication/overview-research-lifecycle/](https://library.ucf.edu/about/departments/scholarly-communication/overview-research-lifecycle/)
+[^1]: University of Central Florida Libraries, “Overview: Research Lifecycle,” *University of Central Florida Libraries*, n.d., <a href="https://library.ucf.edu/about/departments/scholarly-communication/overview-research-lifecycle/" target="_blank">https://library.ucf.edu/about/departments/scholarly-communication/overview-research-lifecycle/</a>
 
-[^2]: Digital Research Alliance of Canada, “Strategic Plan 2022-2025,” Digital Research Alliance of Canada, n.d., [https://stratplan.alliancecan.ca/en/](https://stratplan.alliancecan.ca/en/)
+[^2]: Digital Research Alliance of Canada, “Strategic Plan 2022-2025,” Digital Research Alliance of Canada, n.d., <a href="https://stratplan.alliancecan.ca/en/" target="_blank">https://stratplan.alliancecan.ca/en/</a>
 
-[^3]: Ryan Smith, “How Technology is Changing Academic Research,” *Wired*, July 2013, [https://www.wired.com/insights/2013/07/how-technology-is-changing-academic-research/](https://www.wired.com/insights/2013/07/how-technology-is-changing-academic-research/ )
+[^3]: Ryan Smith, “How Technology is Changing Academic Research,” *Wired*, July 2013, <a href="https://www.wired.com/insights/2013/07/how-technology-is-changing-academic-research/" target="_blank">https://www.wired.com/insights/2013/07/how-technology-is-changing-academic-research/</a>
 
-[^4]: UBC Advanced Research Computing, “Enhancing Support for Advanced Research Computing,” *UBC Advanced Research Computing*, n.d., [https://arc.ubc.ca/enhancing-support-advanced-research-computing](https://arc.ubc.ca/enhancing-support-advanced-research-computing)
+[^4]: UBC Advanced Research Computing, “Enhancing Support for Advanced Research Computing,” *UBC Advanced Research Computing*, n.d., <a href="https://arc.ubc.ca/enhancing-support-advanced-research-computing" target="_blank">https://arc.ubc.ca/enhancing-support-advanced-research-computing</a>
 
-[^5]: Digital Research Alliance of Canada, “The Alliance,” *Digital Research Alliance of Canada*, n.d., [https://alliancecan.ca/en/about/alliance](https://alliancecan.ca/en/about/alliance)
+[^5]: Digital Research Alliance of Canada, “The Alliance,” *Digital Research Alliance of Canada*, n.d., <a href="https://alliancecan.ca/en/about/alliance" target="_blank">https://alliancecan.ca/en/about/alliance</a>
 
-[^6]: John Cox, “Positioning the Academic Library within the Institution: A Literature Review,” _New Review of Academic Librarianship_ 24, 3-4 (2018), [doi.org/10.1080/13614533.2018.1466342](doi.org/10.1080/13614533.2018.1466342)
+[^6]: John Cox, “Positioning the Academic Library within the Institution: A Literature Review,” _New Review of Academic Librarianship_ 24, 3-4 (2018), 
+<a href="doi.org/10.1080/13614533.2018.1466342" target="_blank">doi.org/10.1080/13614533.2018.1466342</a>
 
-[^7]: Kristin A. Briney, “Data Management Practices in Academic Library Learning Analytics: A Critical Review,” _Journal of Librarianship and Scholarly Communications_ 7, no. 1 (February 2019), [https://doi.org/10.7710/2162-3309.2268](https://doi.org/10.7710/2162-3309.2268)
+[^7]: Kristin A. Briney, “Data Management Practices in Academic Library Learning Analytics: A Critical Review,” _Journal of Librarianship and Scholarly Communications_ 7, no. 1 (February 2019), <a href="https://doi.org/10.7710/2162-3309.2268" target="_blank">https://doi.org/10.7710/2162-3309.2268</a>
 
-[^8]: University of Central Floriday Libraries, “Research Lifecycle at University of Central FL,” _University of Central Floriday Libraries_ n.d., [https://library.ucf.edu/wp-content/uploads/sites/5/2017/06/research-life-cycle.png](https://library.ucf.edu/wp-content/uploads/sites/5/2017/06/research-life-cycle.png)
+[^8]: University of Central Floriday Libraries, “Research Lifecycle at University of Central FL,” _University of Central Floriday Libraries_ n.d., <a href="https://library.ucf.edu/wp-content/uploads/sites/5/2017/06/research-life-cycle.png" target="_blank">https://library.ucf.edu/wp-content/uploads/sites/5/2017/06/research-life-cycle.png</a>
 
-[^9]: Phillip A. Richmond and Wyeth W. Wassermann, “Introduction to Genomic Analysis Workshop: A catalyst for engaging life-science researchers in high throughput analysis,” _F1000 Research_, (July 2019), [https://doi.org/10.12688/f1000research.19320.1](https://doi.org/10.12688/f1000research.19320.1)
+[^9]: Phillip A. Richmond and Wyeth W. Wassermann, “Introduction to Genomic Analysis Workshop: A catalyst for engaging life-science researchers in high throughput analysis,” _F1000 Research_, (July 2019), <a href="https://doi.org/10.12688/f1000research.19320.1" target="_blank">https://doi.org/10.12688/f1000research.19320.1</a>
  
