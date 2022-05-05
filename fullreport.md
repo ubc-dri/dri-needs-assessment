@@ -62,8 +62,7 @@ Data collection for the Needs Assessment consisted of (1) a survey assessing cur
 
 ### Data Availability 
 
-Survey responses were collected anonymously, except where participants could enter an email address to enter a draw or participate in focus groups. Any identifying data points from both the survey, including emails, geolocation, and survey dissemination channel, and focus groups were removed before analysis. Data is available 
-<a href="https://doi.org/10.5683/SP3/YIIYOX" target="_blank">here</a>.
+Survey responses were collected anonymously, except where participants could enter an email address to enter a draw or participate in focus groups. Any identifying data points from both the survey, including emails, geolocation, and survey dissemination channel, and focus groups were removed before analysis. The survey, survey data, and focus group materials are available <a href="https://doi.org/10.5683/SP3/YIIYOX" target="_blank">here</a>.
 
 ### Survey 
 
