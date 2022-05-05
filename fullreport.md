@@ -92,7 +92,7 @@ The following results present key findings from the Needs Assessment survey and 
 
 ### Demographics  
 
-The survey collected demographic information about participants' position at UBC, their discipline, and their primary work location. Professors made up the largest group of respondents (Figure 1). In terms of research discipline, Medicine and Health Sciences, as well as the Social Sciences and Humanities made up a disproportionate number of respondents (Figure 2). The primary work location of the majority respondents was largely the Vancouver campus (Figure 3). However, when normalized to 2020 data for total number of graduate students and faculty, and grouping affiliated institutions with the UBC Vancouver campus, UBC Vancouver had a response rate of 1.3% and UBC Okanagan a response rate of 3.5%. 
+The survey collected demographic information about participants' position at UBC, their discipline, and their primary work location. Professors made up the largest group of respondents (Figure 1). In terms of research discipline, Medicine and Health Sciences, as well as the Social Sciences and Humanities made up a disproportionate number of respondents (Figure 2). The primary work location of respondents was largely the Vancouver campus (Figure 3). However, when normalized to 2020 data for total number of graduate students and faculty, and grouping affiliated institutions with the UBC Vancouver campus, UBC Vancouver had a response rate of 1.3% and UBC Okanagan a response rate of 3.5%. 
 
 The “Other (please specify)” responses included research staff such as research assistants, coordinators, and information technology (IT) support. 
 
