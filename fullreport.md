@@ -34,7 +34,7 @@ UBC has recognized this is an area where financial and resource investment is re
 
 ### UBC ARC  
 
-UBC ARC was formally launched in 2015. However, the infrastructure it maintains and provides to researchers is relatively new.  In 2019, UBC ARC Sockeye (“Sockeye”), a 15,872 CPU and 200 GPU high performance computing (HPC) system available to UBC researchers was launched as a complement to the national computing services.  In 2020, UBC ARC Chinook (“Chinook”), a 20 petabyte object storage platform was subsequently launched.  Combined, Sockeye and Chinook were enabled through capital investments totaling over C$18 million [4].  Often, ARC services are provided through a traditional IT department, with staff having various levels of research experience. In contrast, UBC ARC is a multidisciplinary unit within the Office of the Vice President of Research and Innovation, comprised of staff members in traditional ARC roles such as system administrators, and former researchers, as well as less traditional members with backgrounds in areas such as health, oceanography, archeology, and library and information sciences.  
+UBC ARC was formally launched in 2015. However, the infrastructure it maintains and provides to researchers is relatively new.  In 2019, UBC ARC Sockeye (“Sockeye”), a 15,872 CPU and 200 GPU high performance computing (HPC) system available to UBC researchers was launched as a complement to the national computing services.  In 2020, UBC ARC Chinook (“Chinook”), a 20 petabyte object storage platform was subsequently launched.  Combined, Sockeye and Chinook were enabled through capital investments totaling over C$18 million [4].  Often, ARC services are provided through a traditional IT department, with staff having various levels of research experience.  In contrast, UBC ARC is a multidisciplinary unit within the Office of the Vice President of Research and Innovation, comprised of staff members in traditional ARC roles such as system administrators, and former researchers, as well as less traditional members with backgrounds in areas such as health, oceanography, archeology, and library and information sciences.  
 
 UBC ARC occupies a unique position at the intersection of HPC, RDM, and research software (RS), and leverages this position through collaboration with departments and portfolios spanning UBC to offer support and training across the range of DRI activities queried in this Needs Assessment.  Over the course of the last two years, UBC ARC staff have hosted a number of introductory courses on HPC, commercial cloud, and RDM. 
 
@@ -295,13 +295,13 @@ Lastly, each unit must look at their current training and support offerings with
 
 ## Detailed graphs
 
-**Figure 14. Total responses for "Need for Support" by DRI Element**
+**Figure 14. Total responses for "need for support" by DRI Element**
 <br>
 <br>
 <br>
 <img class="graph" alt="Need for support by topic" src="graphs/detailed_support.png">
 
-**Figure 15. Total responses for "Need for Training" by DRI Element**
+**Figure 15. Total responses for "need for training" by DRI Element**
 <br>
 <br>
 <br>
