@@ -155,8 +155,8 @@ A large number of respondents indicated that they sought training outside of UBC
 > \"Empowering graduate students [to] seek out their own network and other graduate students within their institution is always really rewarding for everyone, [and] it usually leads to a lot of productivity.\"
 <br>
 
-### Regularly Offered/Asynchronous Training  
- 
+### Regularly Offered/Asynchronous Training
+
 In addition to localized training, focus group participants also indicated that having training offered regularly throughout the year would be beneficial, due to the transient nature of faculty and students. Similarly, participants indicated that asynchronous or online training would be of value, as it would not only accommodate those who cannot make live training sessions, but is a beneficial supplement to live training.  
 
 **Focus Group Quotes Regarding the Frequency of Training Offerings**
@@ -295,13 +295,13 @@ Lastly, each unit must look at their current training and support offerings with
 
 ## Detailed graphs
 
-**Figure 14**
+**Figure 14. Total responses for "Need for Support" by DRI Element**
 <br>
 <br>
 <br>
 <img class="graph" alt="Need for support by topic" src="graphs/detailed_support.png">
 
-**Figure 15**
+**Figure 15. Total responses for "Need for Training" by DRI Element**
 <br>
 <br>
 <br>
