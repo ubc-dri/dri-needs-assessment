@@ -24,7 +24,7 @@ This report provides a summary of the findings and recommendations to address id
 
 ## Background 
 
-Disciplines that are not traditionally users of computational tools are increasingly relying on digital methodologies, platforms, and approaches. Meanwhile, disciplines that have integrated compute into their research workflow have a growing need to greater computation and data management support due to substantive datasets.  With this increasing demand, there is a need for universities to provide increased infrastructure and support.   
+Disciplines that are not traditionally users of computational tools are increasingly relying on digital methodologies, platforms, and approaches. Meanwhile, disciplines that have integrated compute into their research workflow have a growing need for greater computation and data management support due to substantive datasets.  With this increasing demand, there is a need for universities to provide increased infrastructure and support.   
 
 Research intensive universities must invest in computing facilities, data management, storage, software, and highly qualified personnel to support this infrastructure [2] to be competitive. This need is as much predicated on providing the necessary frameworks to enable research as it is to entice top tier researchers; prospective faculty increasingly inquire about this kind of investment, and more universities are offering cloud credits and support as ways to entice candidates.  
 
