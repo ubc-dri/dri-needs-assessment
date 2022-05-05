@@ -270,7 +270,7 @@ A unified RDM web portal offers an opportunity for a single URL to direct and 
 
 Work related to a unified portal has been under development since late 2020, and a draft proposal of the scope of activities can be accessed below:
 
-* [Link to Web Portal Proposal](https://ubcca.sharepoint.com/:w:/t/ubcAVRC-gr-RDMEthics/EakJR_JFED9DqZb4i92RxysBMbBzQa8NCoUJpUv7Tqc8Rg?e=sQvGGz)
+* [Link to Web Portal Proposal](https://ubcca.sharepoint.com/:w:/t/ubcAVRC-gr-RDMEthics/EakJR_JFED9DqZb4i92RxysBMbBzQa8NCoUJpUv7Tqc8Rg?e=sQvGGz){:target="\_blank"}
 * [Link to Web Portal Team Terms of Reference](https://ubcca.sharepoint.com/:w:/t/ubcAVRC-gr-RDMEthics/EVDRUi9wybFPnKF57syHioYByr1UHV6FYo2H6uO9N_4JTQ?e=W4uYvS)  
 
 **_Recommendation 2: Establish a unified communication strategy_**
