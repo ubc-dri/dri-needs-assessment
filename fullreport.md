@@ -234,7 +234,7 @@ UBC ARC was able to solicit feedback from current researchers who leverage these
 <br>
 <img class="graph" alt="HPC and Cloud Users" src="graphs/HPC_cloud_graph.png">
 
-Consist with other findings, the most common place for HPC and cloud training and support is “[o]utside of UBC”.  This may mean on-demand-training, training through Compute Canada/Alliance, or the multiple other online resources (e.g., YouTube, other university sites, etc.).  When discussing this with focus group participants, the overwhelming feedback is training and support through UBC, is preferred.
+Consistent with other findings, the most common place for HPC and cloud training and support is “[o]utside of UBC”.  This may mean on-demand-training, training through Compute Canada/Alliance, or the multiple other online resources (e.g., YouTube, other university sites, etc.).  When discussing this with focus group participants, the overwhelming feedback is training and support through UBC, is preferred.
 
 ### Other Research Support
 
