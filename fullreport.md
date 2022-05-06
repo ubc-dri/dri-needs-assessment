@@ -208,7 +208,7 @@ In today’s academic research environment, research computing, including but no
 <br>
 <img class="graph" alt="Computation Support Where" src="graphs/group_2_support_where.png ">
 
-Furthermore, there is a disconnect within this category where the training units do not necessarily reflect the same department breakdown in support.  For example, respondents went to UBC ARC and UBC Library for “machine learning” training, but they did not go to these units for support.  While research support units may view training and support for these categories as intertwined services, these findings suggest that the research community may view them as separate services.
+Furthermore, there is a disconnect within this category in which the training units do not necessarily reflect the same department breakdown in support.  For example, respondents went to UBC ARC and UBC Library for “machine learning” training, but they did not go to these units for support.  While research support units may view training and support for these categories as intertwined services, these findings suggest that the research community may view them as separate services.
 
 There is also evidence that the UBC community is not finding the research computation and software support and training they need from the institution.  A significant number of respondents did not know training or support was available, though they would have liked to utilize it had they known it was (Figures 11 and 12).
 
