@@ -318,7 +318,7 @@ It is also worth considering the benefits of a unified strategy given the streng
 
 [^6]: Kristin A. Briney, “Data Management Practices in Academic Library Learning Analytics: A Critical Review,” _Journal of Librarianship and Scholarly Communications_ 7, no. 1 (February 2019), <a href="https://doi.org/10.7710/2162-3309.2268" target="_blank">https://doi.org/10.7710/2162-3309.2268</a>
 
-[^7]: University of Central Floriday Libraries, “Research Lifecycle at University of Central FL,” _University of Central Floriday Libraries_ n.d., <a href="https://library.ucf.edu/wp-content/uploads/sites/5/2017/06/research-life-cycle.png" target="_blank">https://library.ucf.edu/wp-content/uploads/sites/5/2017/06/research-life-cycle.png</a>
+[^7]: HeinOnline U.S. Congressional Documents Library. Research funding as an investment--can we measure the returns?, (Washington: 1986), Retrieved from 
+<a href="https://www.princeton.edu/~ota/disk2/1986/8622/8622.PDF  " target="_blank">https://www.princeton.edu/~ota/disk2/1986/8622/8622.PDF  </a>
 
-[^8]: Phillip A. Richmond and Wyeth W. Wassermann, “Introduction to Genomic Analysis Workshop: A catalyst for engaging life-science researchers in high throughput analysis,” _F1000 Research_, (July 2019), <a href="https://doi.org/10.12688/f1000research.19320.1" target="_blank">https://doi.org/10.12688/f1000research.19320.1</a>
- 
+
