@@ -142,7 +142,7 @@ Another notable finding is that of the respondents that sought training or suppo
 
 ### Training Within UBC
 
-A large number of respondents indicated that they sought training outside of UBC. However, a common theme in the focus groups was the desire for more training offered by UBC. A motivation for wanting internal training is that this encourages the growth of research communities and networks, for both faculty as well as graduate researchers.
+A large number of respondents indicated that they sought training outside of UBC. However, a common theme in the focus groups was the desire for more training to be offered by UBC. A motivation for wanting internal training is that it encourages the growth of research communities and networks, for both faculty as well as graduate researchers.
 
 **Focus Group Quotes Regarding Internal Training at UBC**
 
