@@ -174,7 +174,7 @@ In addition to localized training, focus group participants also indicated that 
 
 ### Research Data Management  
 
-The survey highlights three trends of interest for RDM support services [^6].  RDM as a support service has traditionally been embedded in the activities of academic libraries [^7].  This is reflected at UBC with UBC Library‘s involvement in national RDM initiatives as well as coordinating funding and training for dedicated research data repositories. Yet, 24% of those seeking support for data management plans (DMPs) and only 16% of researchers who sought support for data retention, deposit, or preservation went to UBC Library (Figure 7). For sensitive data retention, UBC ARC and UBC IT are the primary units offering support for deposit when traditional data repositories are not an option. However, 20% of respondents seeking support in these areas still went outside of UBC.
+RDM as a support service has traditionally been embedded in the activities of academic libraries [^6].  This is reflected at UBC with UBC Library‘s involvement in national RDM initiatives as well as coordinating funding and training for dedicated research data repositories. Yet, 24% of those seeking support for data management plans (DMPs) and only 16% of researchers who sought support for data retention, deposit, or preservation went to UBC Library (Figure 7). For sensitive data retention, UBC ARC and UBC IT are the primary units offering support for deposit when traditional data repositories are not an option. However, 20% of respondents seeking support in these areas still went outside of UBC.
 
 Data management plans are an integral component in adhering to funder mandates, and UBC has invested significant time and resources in support of the development of the DMP Assistant to facilitate and streamline this task for researchers. Respondents turned to several different campus units for support, however 24% of respondents sought this support outside of UBC (Figure 7). This suggests several areas of concern. While the university and researcher each hold a degree of responsibility for ensuring the integrity of research data, many researchers are opting to work with non-UBC entities to address their RDM needs. There is a need to effectively direct researchers to the best point of contact for a particular service related to RDM within UBC. Despite investment in solutions to address things like funder mandates that attempt to ensure that RDM is properly handled and administered, the products of these investments are not being used to their full potential by UBC’s research community.   
 
@@ -240,7 +240,7 @@ Consistent with other findings, the most common place for HPC and cloud training
 
 Though UBC Library and UBC ARC partnered on this Needs Assessment, the feedback provided by those surveyed was not limited to training and support offered only by those two units. The university research landscape is complex and diverse with research intensive departments providing internal support, administrative departments ensuring compliance, finance and human resources supporting the business function, and affiliated hospitals supporting their own internal processes.
 
-This is not unique to UBC.  University units and departments have struggled as to how to better support the research community knowing that academic research is competitive and research dollars can be an important [^8].
+This is not unique to UBC.  University units and departments have struggled as to how to better support the research community knowing that academic research is competitive and research dollars can be an important [^7].
 
 ### The Alliance DRI Needs Assessment
 
@@ -292,7 +292,7 @@ Different disciplines have different learning needs and exposure to computationa
 
 It is also worth considering the benefits of a unified strategy given the strengths of various units. UBC Library has a strong history of developing content for information literacies, and in a computational environment, UBC ARC provides the computational infrastructure in which these literacies are used to conduct research. Specific departments may provide the subject expertise to translate literacies and infrastructure into meaningful research. A scaffolded, targeted and unified training and support strategy would build on this.  
 
-Lastly, each unit must look at their current training and support offerings with a critical eye.  The needs assessment data reflects those who utilized the training and support from UBC units were for the most part satisfied or very satisfied.  However, what is not clear is whether those searching for these supports did not find the match on the newsletters, webpages, or through other means. If the researcher is wanting training in HPC and bioinformatics, even for introductory information, they may prefer a course that is aimed at that audience over a generic introductory course [^9].  This type of evaluation needs to be done no matter the collaboration or communication that could happen.  It is important that the training is refreshed and based on current needs, not what has already been taught.       
+Lastly, each unit must look at their current training and support offerings with a critical eye.  The needs assessment data reflects those who utilized the training and support from UBC units were for the most part satisfied or very satisfied.  However, what is not clear is whether those searching for these supports did not find the match on the newsletters, webpages, or through other means. If the researcher is wanting training in HPC and bioinformatics, even for introductory information, they may prefer a course that is aimed at that audience over a generic introductory course [^8].  This type of evaluation needs to be done no matter the collaboration or communication that could happen.  It is important that the training is refreshed and based on current needs, not what has already been taught.       
 
 ## Detailed graphs
 
@@ -320,12 +320,9 @@ Lastly, each unit must look at their current training and support offerings with
 
 [^5]: Digital Research Alliance of Canada, “The Alliance,” *Digital Research Alliance of Canada*, n.d., <a href="https://alliancecan.ca/en/about/alliance" target="_blank">https://alliancecan.ca/en/about/alliance</a>
 
-[^6]: John Cox, “Positioning the Academic Library within the Institution: A Literature Review,” _New Review of Academic Librarianship_ 24, 3-4 (2018), 
-<a href="https://doi.org/10.1080/13614533.2018.1466342" target="_blank">https://doi.org/10.1080/13614533.2018.1466342</a>
+[^6]: Kristin A. Briney, “Data Management Practices in Academic Library Learning Analytics: A Critical Review,” _Journal of Librarianship and Scholarly Communications_ 7, no. 1 (February 2019), <a href="https://doi.org/10.7710/2162-3309.2268" target="_blank">https://doi.org/10.7710/2162-3309.2268</a>
 
-[^7]: Kristin A. Briney, “Data Management Practices in Academic Library Learning Analytics: A Critical Review,” _Journal of Librarianship and Scholarly Communications_ 7, no. 1 (February 2019), <a href="https://doi.org/10.7710/2162-3309.2268" target="_blank">https://doi.org/10.7710/2162-3309.2268</a>
+[^7]: University of Central Floriday Libraries, “Research Lifecycle at University of Central FL,” _University of Central Floriday Libraries_ n.d., <a href="https://library.ucf.edu/wp-content/uploads/sites/5/2017/06/research-life-cycle.png" target="_blank">https://library.ucf.edu/wp-content/uploads/sites/5/2017/06/research-life-cycle.png</a>
 
-[^8]: University of Central Floriday Libraries, “Research Lifecycle at University of Central FL,” _University of Central Floriday Libraries_ n.d., <a href="https://library.ucf.edu/wp-content/uploads/sites/5/2017/06/research-life-cycle.png" target="_blank">https://library.ucf.edu/wp-content/uploads/sites/5/2017/06/research-life-cycle.png</a>
-
-[^9]: Phillip A. Richmond and Wyeth W. Wassermann, “Introduction to Genomic Analysis Workshop: A catalyst for engaging life-science researchers in high throughput analysis,” _F1000 Research_, (July 2019), <a href="https://doi.org/10.12688/f1000research.19320.1" target="_blank">https://doi.org/10.12688/f1000research.19320.1</a>
+[^8]: Phillip A. Richmond and Wyeth W. Wassermann, “Introduction to Genomic Analysis Workshop: A catalyst for engaging life-science researchers in high throughput analysis,” _F1000 Research_, (July 2019), <a href="https://doi.org/10.12688/f1000research.19320.1" target="_blank">https://doi.org/10.12688/f1000research.19320.1</a>
  
