@@ -240,7 +240,7 @@ Consistent with other findings, the most common place for HPC and cloud training
 
 Though UBC Library and UBC ARC partnered on this Needs Assessment, the feedback provided by those surveyed was not limited to training and support offered only by those two units. The university research landscape is complex and diverse with research intensive departments providing internal support, administrative departments ensuring compliance, finance and human resources supporting the business function, and affiliated hospitals supporting their own internal processes.
 
-This is not unique to UBC.  University units and departments have struggled as to how to better support the research community knowing that academic research is competitive and research dollars can be an important [^7].
+This complex administrative support system is not unique to UBC and is something universities recognize they need to improve.  Not only is this important for research workflow efficiency, but is also vital for universities, as academic research is competitive and research dollars are important to reputation [^7].  
 
 ### The Alliance DRI Needs Assessment
 
