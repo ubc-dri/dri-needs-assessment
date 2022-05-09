@@ -256,7 +256,7 @@ This complex administrative support system is not unique to UBC and is something
 
 ### The Alliance DRI Needs Assessment
 
-From February to March 2021, the Alliance conducted [The Canadian Digital Research Infrastructure Needs Assessment](https://alliancecan.ca/en/initiatives/canadian-digital-research-infrastructure-needs-assessment), receiving over 1,380 responses from researchers across a variety of disciplines.  As part of the assessment, there was also a call for position papers to a broad range of stakeholders, which resulted in a total of 107 papers covering topics from data management, training, data governance, and others.  The findings are similar across the UBC and national needs assessments, including the need for greater awareness of services, a need for training and support across a range of DRI elements, as well as there being multiple locations in which researchers seek DRI services.
+From February to March 2021, the Alliance conducted <a href="https://alliancecan.ca/en/initiatives/canadian-digital-research-infrastructure-needs-assessment" target="_blank">The Canadian Digital Research Infrastructure Needs Assessment</a>, receiving over 1,380 responses from researchers across a variety of disciplines.  As part of the assessment, there was also a call for position papers to a broad range of stakeholders, which resulted in a total of 107 papers covering topics from data management, training, data governance, and others.  The findings are similar across the UBC and national needs assessments, including the need for greater awareness of services, a need for training and support across a range of DRI elements, as well as there being multiple locations in which researchers seek DRI services.
 
 ## Recommendations & Next Steps
 
