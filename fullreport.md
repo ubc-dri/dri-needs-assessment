@@ -294,7 +294,7 @@ Finding assistance in DRI training and support must be easy and appropriately di
  
 **_Recommendation 3: Implement a unified cross-campus training and support strategy_**
 
-Directing researchers to the sources of support and training for DRI is the first step. Support and training must address the needs of researchers to be of value. Support and training should also reflect the expertise of the various units involved in supporting DRI related activities.  
+Directing researchers to the sources of support and training for DRI is the first step. Support and training must address the needs of researchers to be of value, and should also reflect the expertise of the various units involved in supporting DRI related activities.  
 
 Currently, DRI related training opportunities are developed independently within a number of different departments and units. This creates redundancies, confusion about where to seek training, and limits scaffolding of learning content and effective hand-off between campus units for further training and support. There is limited reason for multiple groups at UBC to offer the same course, yet that is often found across these different units.  If, for example, two or more campus units provide “Introduction to Unix Shell” there should be a purpose for this, beyond the need to meet key performance indicators (KPIs). Additionally, if UBC Library runs a workshop on metadata, it would benefit from being discretely connected to a UBC ARC workshop on metadata in the context of HPC.  
 
