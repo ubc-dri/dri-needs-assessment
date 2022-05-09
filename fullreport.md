@@ -316,13 +316,13 @@ It is also worth considering the benefits of a unified strategy given the streng
 <br>
 <img class="graph" alt="Need for training by topic" src="graphs/detailed_training.png">
 
-**Figure 18.  Places respondents sought support for all 25 DRI elements**
+**Figure 18.  Places respondents sought support by DRI element**
 <br>
 <br>
 <br>
 <img class="graph" alt="Need for training by topic" src="graphs/all_support_where.png">
 
-**Figure 19.  Places respondents sought training for all 25 DRI elements**
+**Figure 19.  Places respondents sought training by DRI element**
 <br>
 <br>
 <br>
