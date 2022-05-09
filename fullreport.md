@@ -290,7 +290,7 @@ Survey results indicate that in addition to the need to direct users to the most
 
 Research projects are complex. In a clinical context for example, this might involve drafting a proposal, developing a data management plan, security and privacy reviews, clinical ethics approval and biosafety certification, and interfacing with multiple human resources and finance departments. Subsequent steps may then involve data de-identification, data access requests, storage, HPC for analysis, long-term data sharing and retention. While ethics, HR, and finance are generally known entities with required templates to facilitate navigation, units that support DRI services such as RDM, HPC, cloud, data transfer, and machine learning are not currently required access points at UBC.
 
-Finding assistance in DRI training and support must be easy and appropriately directed. Researchers will source information that is convenient, if it is not communicated that these services are within the campus, they will not be used. A communication strategy across departments supporting DRI, while a significant undertaking, is of immense value. A smaller-scale approach should start with departments and units coordinating cross-support communications.
+Finding assistance in DRI training and support must be easy and appropriately directed. Researchers will source information that is convenient, if it is not communicated that these services are within the campus, they will not be used. A communication strategy across departments supporting DRI, while a significant undertaking, is of immense value.
  
 **_Recommendation 3: Implement a unified cross-campus training and support strategy_**
 
