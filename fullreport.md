@@ -234,7 +234,19 @@ UBC ARC was able to solicit feedback from current researchers who leverage these
 <br>
 <img class="graph" alt="HPC and Cloud Users" src="graphs/HPC_cloud_graph.png">
 
-Consistent with other findings, the most common place for HPC and cloud training and support is “[o]utside of UBC”.  This may mean on-demand-training, training through Compute Canada/Alliance, or the multiple other online resources (e.g., YouTube, other university sites, etc.).  When discussing this with focus group participants, the overwhelming feedback is training and support through UBC, is preferred.
+Consistent with other findings, the most common place for HPC and cloud training and support is “Outside UBC” (Figure 14 and 15).  This may mean on-demand-training, training through Compute Canada/Alliance, or the multiple other online resources (e.g., YouTube, other university sites, etc.).  When discussing this with focus group participants, the overwhelming feedback is training and support through UBC, is preferred.
+
+**FIgure 14.  Places respondents sought support for HPC and cloud**
+<br>
+<br>
+<br>
+<img class="graph" alt="HPC and Cloud Users" src="graphs/hpc_cloud_support_where.png">
+
+**Figure 15.  Places respondents sought training for HPC and cloud**
+<br>
+<br>
+<br>
+<img class="graph" alt="HPC and Cloud Users" src="graphs/hpc_cloud_training_where.png">
 
 ### Other Research Support
 
@@ -292,25 +304,25 @@ It is also worth considering the benefits of a unified strategy given the streng
 
 ## Detailed graphs
 
-**Figure 14. Total responses for "need for support" by DRI element**
+**Figure 16. Total responses for "need for support" by DRI element**
 <br>
 <br>
 <br>
 <img class="graph" alt="Need for support by topic" src="graphs/detailed_support.png">
 
-**Figure 15. Total responses for "need for training" by DRI element**
+**Figure 17. Total responses for "need for training" by DRI element**
 <br>
 <br>
 <br>
 <img class="graph" alt="Need for training by topic" src="graphs/detailed_training.png">
 
-**Figure 16.  Places respondents sought support for all 25 DRI elements**
+**Figure 18.  Places respondents sought support for all 25 DRI elements**
 <br>
 <br>
 <br>
 <img class="graph" alt="Need for training by topic" src="graphs/all_support_where.png">
 
-**Figure 17.  Places respondents sought training for all 25 DRI elements**
+**Figure 19.  Places respondents sought training for all 25 DRI elements**
 <br>
 <br>
 <br>
