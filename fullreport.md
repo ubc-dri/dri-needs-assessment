@@ -9,7 +9,7 @@ title: Full Report
 * [Methodology](#methodology) 
 * [Results](#results)
 * [Recommendations & Next Steps](#recommendations--next-steps)
-* [Complete Graphs](#complete-graphs)
+* [Full Graphs](#full-graphs)
 * [References](#references)
 
 <div id = "top-wrapper"><a href="#top" class="back-to-top-link">🔝</a></div>
@@ -302,7 +302,7 @@ Different disciplines have different learning needs and exposure to computationa
 
 It is also worth considering the benefits of a unified strategy given the strengths of various units. UBC Library has a strong history of developing content for information literacies, and in a computational environment, UBC ARC provides the infrastructure in which these literacies are used to conduct research. Specific departments may provide the subject expertise to translate literacies and infrastructure into meaningful research. A scaffolded, targeted and unified training and support strategy would build on this.  Any approach would also benefit from each unit reviewing their current training and support initiatives in light of this and the Alliance survey findings, ensuring content is appropriately targeted to the requisite skill levels and domain knowledge of UBC researchers. 
 
-## Complete Graphs
+## Full Graphs
 
 **Figure 16. Total responses for "need for support" by DRI element**
 <br>
