@@ -14,7 +14,7 @@ title: Full Report
 
 <div id = "top-wrapper"><a href="#top" class="back-to-top-link">🔝</a></div>
 
-<a id="raw-url" href="https://github.com/ubc-dri/dri-needs-assessment/blob/main/NeedsAssessment_finaldraft.pdf">Download PDF of Full Report</a>
+<a href="https://github.com/ubc-dri/dri-needs-assessment/blob/main/NeedsAssessment_finaldraft.pdf" download>Click to Download FUll Report</a>
 
 ## Introduction   
 
