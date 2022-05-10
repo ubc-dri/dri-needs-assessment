@@ -344,4 +344,3 @@ It is also worth considering the benefits of a unified strategy given the streng
 
 [^7]: HeinOnline U.S. Congressional Documents Library. Research funding as an investment--can we measure the returns?, (Washington: 1986), Retrieved from <a href="https://www.princeton.edu/~ota/disk2/1986/8622/8622.PDF" target="_blank">https://www.princeton.edu/~ota/disk2/1986/8622/8622.PDF</a>
 <br>
-<br>
