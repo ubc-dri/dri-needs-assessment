@@ -18,8 +18,6 @@ title: Full Report
 <p>
 <a href = "NeedsAssessment_finaldraft.pdf"><button class = "reportLink fullreportLink ">Download the Full Report</button></a>
 </p>
-<br>
-<br>
 </div>
 
 ## Introduction   
