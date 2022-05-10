@@ -17,7 +17,6 @@ title: Full Report
 <div>
 <a href = "NeedsAssessment_finaldraft.pdf"><button class = "reportLink fullreportLink ">Download the Full Report</button></a>
   </div>
-<br>
 
 ## Introduction   
 
