@@ -20,12 +20,6 @@ title: Full Report
 </p>
 </div>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-
 ## Introduction   
 
 Within the academic research environment there is an ever-increasing need for substantive digital research infrastructure (DRI), at both the national and institutional levels.  DRI refers to a suite of services that enables the collection, processing, dissemination, and disposition of research data. In practice this is the software, code, large-scale computational facilities, and data storage facilities required in the research data lifecycle [^1].  While academic researchers have historically compiled, analyzed, and temporarily stored data, the growth in the technology and capacity to obtain large data sets, and the requirements to share data indefinitely, have radically changed the needs for services, support, and training for the research community. 
