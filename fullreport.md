@@ -328,7 +328,7 @@ It is also worth considering the benefits of a unified strategy given the streng
 <br>
 <img class="graph" alt="Need for training by topic" src="graphs/all_training_where.png">
 
-## References
+## References 
 
 [^1]: University of Central Florida Libraries, “Overview: Research Lifecycle,” *University of Central Florida Libraries*, n.d., <a href="https://library.ucf.edu/about/departments/scholarly-communication/overview-research-lifecycle/" target="_blank">https://library.ucf.edu/about/departments/scholarly-communication/overview-research-lifecycle/</a>
 
