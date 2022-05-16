@@ -108,7 +108,7 @@ The “Other (please specify)” responses included research staff such as resea
 <br>
 <br>
 <br>
-<img class="graph" alt="Respondent's position at UBC" src="graphs/overall_position.PNG">
+<img class="graph" alt="Respondent's position at UBC" src="graphs/overall_position.png">
 
 **Figure 2. Survey responses by research discipline**
 <br>
@@ -120,7 +120,7 @@ The “Other (please specify)” responses included research staff such as resea
 <br>
 <br>
 <br>
-<img class="graph" alt="Respondent's primary work location" src="graphs/overall_location.PNG">
+<img class="graph" alt="Respondent's primary work location" src="graphs/overall_location.png">
 
 ### Awareness of Training and Support
 
