@@ -270,7 +270,7 @@ From February to March 2021, the Alliance conducted <a href="https://alliancecan
 
 ### Overarching Recommendations
 
-**Recommendation 1:** Develop a unified research data web portal and governance structure to connect all services and departments across the institution that serve DRI, to provide a single point of entry to DRI at UBC.
+**Recommendation 1:** Develop a unified research data web portal and governance structure to connect services and departments across the institution that serve DRI, to provide a single point of entry to DRI at UBC.
 <br>
 <br>
 **Recommendation 2:** Establish a unified communication strategy across these service providers that is cohesive and focuses on researchers. 
