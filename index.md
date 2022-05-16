@@ -40,7 +40,7 @@ A large number of respondents sought training and support outside of UBC, but fo
 <div class="recommendation">
 <b>Recommendation 1</b>
   <br>
-Develop a unified research data web portal and governance structure to connect all services and departments across the institution that serve DRI, to provide a single point of entry to DRI at UBC.
+Develop a unified research data web portal and governance structure to connect services and departments across the institution that serve DRI, to provide a single point of entry to DRI at UBC.
   <br>
   <br>
 <b>Recommendation 2</b>
