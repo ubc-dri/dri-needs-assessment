@@ -288,8 +288,8 @@ A unified RDM web portal offers an opportunity for a single URL to direct and 
 
 Work related to a unified portal has been under development since late 2020, and a draft proposal of the scope of activities can be accessed at the following links:
 
-* <a href="https://github.com/ubc-dri/dri-needs-assessment/blob/main/DataPortal_ProjectProposal.pdf" target="_blank">Web Portal Proposal</a>
-* <a href="https://github.com/ubc-dri/dri-needs-assessment/blob/main/DataPortal_ToR.pdf" target="_blank">Web Portal Team Terms of Reference</a>
+* <a href="https://ubc-dri.github.io/dri-needs-assessment/DataPortal_ProjectProposal.pdf" target="_blank">Web Portal Proposal</a>
+* <a href="https://ubc-dri.github.io/dri-needs-assessment/DataPortal_ToR.pdf" target="_blank">Web Portal Team Terms of Reference</a>
 
 
 **_Recommendation 2: Establish a unified communication strategy_**
